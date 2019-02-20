@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandre Sawczuk da Silva on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/alexandre-sawczuk-da-silva/</link>
+    <description>Recent content in Alexandre Sawczuk da Silva on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/alexandre-sawczuk-da-silva/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Hybrid Memetic Approach for Fully Automated Multi-Objective Web Service Composition</title>
+      <link>https://meiyi1986.github.io/publication/da-2018-hybrid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2018-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary computation for automatic Web service composition: an indirect representation approach</title>
+      <link>https://meiyi1986.github.io/publication/da-2018-evolutionary/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2018-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fragment-based genetic programming for fully automated multi-objective web service composition</title>
+      <link>https://meiyi1986.github.io/publication/da-2017-fragment/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2017-fragment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A memetic algorithm-based indirect approach to web service composition</title>
+      <link>https://meiyi1986.github.io/publication/da-2016-memetic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2016-memetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle swarm optimisation with sequence-like indirect representation for web service composition</title>
+      <link>https://meiyi1986.github.io/publication/da-2016-particle/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2016-particle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

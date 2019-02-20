@@ -1,14 +1,429 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on Yi Mei @ VUW</title>
     <link>https://meiyi1986.github.io/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aaron Chen</title>
+      <link>https://meiyi1986.github.io/authors/aaron-chen/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/aaron-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre Sawczuk da Silva</title>
+      <link>https://meiyi1986.github.io/authors/alexandre-sawczuk-da-silva/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/alexandre-sawczuk-da-silva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreas T Ernst</title>
+      <link>https://meiyi1986.github.io/authors/andreas-t-ernst/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/andreas-t-ernst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andy Song</title>
+      <link>https://meiyi1986.github.io/authors/andy-song/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/andy-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atiya Masood</title>
+      <link>https://meiyi1986.github.io/authors/atiya-masood/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/atiya-masood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin W Wah</title>
+      <link>https://meiyi1986.github.io/authors/benjamin-w-wah/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/benjamin-w-wah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bing Xue</title>
+      <link>https://meiyi1986.github.io/authors/bing-xue/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/bing-xue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boxiong Tan</title>
+      <link>https://meiyi1986.github.io/authors/boxiong-tan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/boxiong-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Yska</title>
+      <link>https://meiyi1986.github.io/authors/daniel-yska/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/daniel-yska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepak Karunakaran</title>
+      <link>https://meiyi1986.github.io/authors/deepak-karunakaran/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/deepak-karunakaran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elaine Wah</title>
+      <link>https://meiyi1986.github.io/authors/elaine-wah/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/elaine-wah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flora D Salim</title>
+      <link>https://meiyi1986.github.io/authors/flora-d-salim/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/flora-d-salim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flora Salim</title>
+      <link>https://meiyi1986.github.io/authors/flora-salim/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/flora-salim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gang Chen</title>
+      <link>https://meiyi1986.github.io/authors/gang-chen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/gang-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haobo Fu</title>
+      <link>https://meiyi1986.github.io/authors/haobo-fu/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/haobo-fu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hui Ma</title>
+      <link>https://meiyi1986.github.io/authors/hui-ma/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/hui-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianhua Liu</title>
+      <link>https://meiyi1986.github.io/authors/jianhua-liu/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/jianhua-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Xie</title>
+      <link>https://meiyi1986.github.io/authors/jing-xie/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/jing-xie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Park</title>
+      <link>https://meiyi1986.github.io/authors/john-park/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/john-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josiah Jacobsen-Grocott</title>
+      <link>https://meiyi1986.github.io/authors/josiah-jacobsen-grocott/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/josiah-jacobsen-grocott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ke Tang</title>
+      <link>https://meiyi1986.github.io/authors/ke-tang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/ke-tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keqin Jiang</title>
+      <link>https://meiyi1986.github.io/authors/keqin-jiang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/keqin-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leandro L Minku</title>
+      <link>https://meiyi1986.github.io/authors/leandro-l-minku/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/leandro-l-minku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longfei Yan</title>
+      <link>https://meiyi1986.github.io/authors/longfei-yan/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/longfei-yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margaret Hamilton</title>
+      <link>https://meiyi1986.github.io/authors/margaret-hamilton/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/margaret-hamilton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Johnston</title>
+      <link>https://meiyi1986.github.io/authors/mark-johnston/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/mark-johnston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Md Jakirul Islam</title>
+      <link>https://meiyi1986.github.io/authors/md-jakirul-islam/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/md-jakirul-islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mengjie Zhang</title>
+      <link>https://meiyi1986.github.io/authors/mengjie-zhang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/mengjie-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Riley</title>
+      <link>https://meiyi1986.github.io/authors/michael-riley/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/michael-riley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ming Yang</title>
+      <link>https://meiyi1986.github.io/authors/ming-yang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/ming-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Nabi Omidvar</title>
+      <link>https://meiyi1986.github.io/authors/mohammad-nabi-omidvar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/mohammad-nabi-omidvar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Saiedur Rahaman</title>
+      <link>https://meiyi1986.github.io/authors/mohammad-saiedur-rahaman/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/mohammad-saiedur-rahaman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pietro A Consoli</title>
+      <link>https://meiyi1986.github.io/authors/pietro-a-consoli/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/pietro-a-consoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Chen</title>
+      <link>https://meiyi1986.github.io/authors/qi-chen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/qi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Holdaway</title>
+      <link>https://meiyi1986.github.io/authors/scott-holdaway/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/scott-holdaway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Su Nguyen</title>
+      <link>https://meiyi1986.github.io/authors/su-nguyen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/su-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Su Nyugen</title>
+      <link>https://meiyi1986.github.io/authors/su-nyugen/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/su-nyugen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will Hardwick-Smith</title>
+      <link>https://meiyi1986.github.io/authors/will-hardwick-smith/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/will-hardwick-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaodong Li</title>
+      <link>https://meiyi1986.github.io/authors/xiaodong-li/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/xiaodong-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xin Yao</title>
+      <link>https://meiyi1986.github.io/authors/xin-yao/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/xin-yao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yanbo Zhu</title>
+      <link>https://meiyi1986.github.io/authors/yanbo-zhu/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/yanbo-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Mei</title>
+      <link>https://meiyi1986.github.io/authors/yi-mei/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/yi-mei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiming Peng</title>
+      <link>https://meiyi1986.github.io/authors/yiming-peng/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/yiming-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuxin Liu</title>
+      <link>https://meiyi1986.github.io/authors/yuxin-liu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/yuxin-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuzhou Zhang</title>
+      <link>https://meiyi1986.github.io/authors/yuzhou-zhang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/yuzhou-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zili Zhang</title>
+      <link>https://meiyi1986.github.io/authors/zili-zhang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/authors/zili-zhang/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

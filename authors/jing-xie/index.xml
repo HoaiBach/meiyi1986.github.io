@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Xie on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/jing-xie/</link>
+    <description>Recent content in Jing Xie on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/jing-xie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A bi-level optimization model for grouping constrained storage location assignment problems</title>
+      <link>https://meiyi1986.github.io/publication/xie-2018-bi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/xie-2018-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A restricted neighbourhood tabu search for storage location assignment problem</title>
+      <link>https://meiyi1986.github.io/publication/xie-2015-restricted/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/xie-2015-restricted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving self-adaptive tabu search algorithm for storage location assignment problems</title>
+      <link>https://meiyi1986.github.io/publication/xie-2015-evolving/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/xie-2015-evolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A genetic programming-based hyper-heuristic approach for storage location assignment problem</title>
+      <link>https://meiyi1986.github.io/publication/xie-2014-genetic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/xie-2014-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling up solutions to storage location assignment problems by genetic programming</title>
+      <link>https://meiyi1986.github.io/publication/xie-2014-scaling/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/xie-2014-scaling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,12 +1,148 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>Yi Mei @ VUW on Yi Mei @ VUW</title>
     <link>https://meiyi1986.github.io/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content in Yi Mei @ VUW on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Hybrid Genetic Programming Algorithm for Automated Design of Dispatching Rules</title>
+      <link>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Memetic Approach for Fully Automated Multi-Objective Web Service Composition</title>
+      <link>https://meiyi1986.github.io/publication/da-2018-hybrid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2018-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A bi-level optimization model for grouping constrained storage location assignment problems</title>
+      <link>https://meiyi1986.github.io/publication/xie-2018-bi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/xie-2018-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An investigation of ensemble combination schemes for genetic programming based hyper-heuristic approaches to dynamic job shop scheduling</title>
+      <link>https://meiyi1986.github.io/publication/park-2018-investigation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/park-2018-investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Multi-Objective Optimization for Web Service Location Allocation Problem</title>
+      <link>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary computation for automatic Web service composition: an indirect representation approach</title>
+      <link>https://meiyi1986.github.io/publication/da-2018-evolutionary/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2018-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Construction in Genetic Programming Hyper-Heuristic for Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/yska-2018-feature/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/yska-2018-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Programming Hyper-Heuristic for Multi-Vehicle Uncertain Capacitated Arc Routing Problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2018-genetic-1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2018-genetic-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Programming Hyper-Heuristic for Stochastic Team Orienteering Problem with Time Windows</title>
+      <link>https://meiyi1986.github.io/publication/mei-2018-genetic-2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2018-genetic-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Programming Hyper-Heuristic with Cooperative Coevolution for Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/yska-2018-genetic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/yska-2018-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating a Machine Breakdown Genetic Programming Approach for Dynamic Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/park-2018-investigating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/park-2018-investigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reference Point Adaption Method for Genetic Programming Hyper-Heuristic in Many-Objective Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/masood-2018-reference/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/masood-2018-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A NSGA-II-based approach for service resource allocation in Cloud</title>
+      <link>https://meiyi1986.github.io/publication/tan-2017-nsga/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/tan-2017-nsga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A PSO-based reference point adaption method for genetic programming hyper-heuristic in many-objective job shop scheduling</title>
+      <link>https://meiyi1986.github.io/publication/masood-2017-pso/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/masood-2017-pso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time-varying transfer function for balancing the exploration and exploitation ability of a binary PSO</title>
+      <link>https://meiyi1986.github.io/publication/islam-2017-time/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/islam-2017-time/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

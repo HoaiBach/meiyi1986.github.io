@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Holdaway on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/scott-holdaway/</link>
+    <description>Recent content in Scott Holdaway on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/scott-holdaway/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automated state feature learning for actor-critic reinforcement learning through NEAT</title>
+      <link>https://meiyi1986.github.io/publication/peng-2017-automated/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/peng-2017-automated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

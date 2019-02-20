@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flora Salim on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/flora-salim/</link>
+    <description>Recent content in Flora Salim on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/flora-salim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Heuristic evolution with genetic programming for traveling thief problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2015-heuristic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2015-heuristic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

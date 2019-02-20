@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Margaret Hamilton on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/margaret-hamilton/</link>
+    <description>Recent content in Margaret Hamilton on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/margaret-hamilton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CAPRA: A contour-based accessible path routing algorithm</title>
+      <link>https://meiyi1986.github.io/publication/rahaman-2017-capra/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/rahaman-2017-capra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

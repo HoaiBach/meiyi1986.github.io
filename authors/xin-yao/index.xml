@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Yao on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/xin-yao/</link>
+    <description>Recent content in Xin Yao on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/xin-yao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DG2: A faster and more accurate differential grouping for large-scale black-box optimization</title>
+      <link>https://meiyi1986.github.io/publication/omidvar-2017-dg-2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/omidvar-2017-dg-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A competitive divide-and-conquer algorithm for unconstrained large-scale black-box optimization</title>
+      <link>https://meiyi1986.github.io/publication/mei-2016-competitive/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2016-competitive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic selection of evolutionary operators based on online learning and fitness landscape analysis</title>
+      <link>https://meiyi1986.github.io/publication/consoli-2016-dynamic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/consoli-2016-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On investigation of interdependence between sub-problems of the travelling thief problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2016-investigation/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2016-investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristic evolution with genetic programming for traveling thief problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2015-heuristic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2015-heuristic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperative co-evolution with differential grouping for large scale optimization</title>
+      <link>https://meiyi1986.github.io/publication/omidvar-2014-cooperative/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/omidvar-2014-cooperative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperative coevolution with route distance grouping for large-scale capacitated arc routing problems</title>
+      <link>https://meiyi1986.github.io/publication/mei-2014-cooperative/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2014-cooperative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving efficiency of heuristics for the large scale traveling thief problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2014-improving/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2014-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable neighborhood decomposition for large scale capacitated arc routing problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2014-variable/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2014-variable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposing large-scale capacitated arc routing problems using a random route grouping method</title>
+      <link>https://meiyi1986.github.io/publication/mei-2013-decomposing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2013-decomposing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary computation for dynamic capacitated arc routing problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2013-evolutionary/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2013-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A memetic algorithm for periodic capacitated arc routing problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2011-memetic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2011-memetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposition-based memetic algorithm for multiobjective capacitated arc routing problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2011-decomposition/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2011-decomposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capacitated arc routing problem in uncertain environments</title>
+      <link>https://meiyi1986.github.io/publication/mei-2010-capacitated/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2010-capacitated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A global repair operator for capacitated arc routing problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2009-global/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2009-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved memetic algorithm for capacitated arc routing problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2009-improved/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2009-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memetic algorithm with extended neighborhood search for capacitated arc routing problems</title>
+      <link>https://meiyi1986.github.io/publication/tang-2009-memetic/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/tang-2009-memetic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

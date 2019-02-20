@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Johnston on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/mark-johnston/</link>
+    <description>Recent content in Mark Johnston on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/mark-johnston/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genetic programming based hyper-heuristics for dynamic job shop scheduling: cooperative coevolutionary approaches</title>
+      <link>https://meiyi1986.github.io/publication/park-2016-genetic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/park-2016-genetic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

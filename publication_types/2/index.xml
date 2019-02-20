@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Hybrid Genetic Programming Algorithm for Automated Design of Dispatching Rules</title>
+      <link>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A bi-level optimization model for grouping constrained storage location assignment problems</title>
+      <link>https://meiyi1986.github.io/publication/xie-2018-bi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/xie-2018-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An investigation of ensemble combination schemes for genetic programming based hyper-heuristic approaches to dynamic job shop scheduling</title>
+      <link>https://meiyi1986.github.io/publication/park-2018-investigation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/park-2018-investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Multi-Objective Optimization for Web Service Location Allocation Problem</title>
+      <link>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary computation for automatic Web service composition: an indirect representation approach</title>
+      <link>https://meiyi1986.github.io/publication/da-2018-evolutionary/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2018-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A time-varying transfer function for balancing the exploration and exploitation ability of a binary PSO</title>
+      <link>https://meiyi1986.github.io/publication/islam-2017-time/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/islam-2017-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient feature selection algorithm for evolving job shop scheduling rules with genetic programming</title>
+      <link>https://meiyi1986.github.io/publication/mei-2017-efficient/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2017-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAPRA: A contour-based accessible path routing algorithm</title>
+      <link>https://meiyi1986.github.io/publication/rahaman-2017-capra/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/rahaman-2017-capra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DG2: A faster and more accurate differential grouping for large-scale black-box optimization</title>
+      <link>https://meiyi1986.github.io/publication/omidvar-2017-dg-2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/omidvar-2017-dg-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic programming for production scheduling: a survey with a unified framework</title>
+      <link>https://meiyi1986.github.io/publication/nguyen-2017-genetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/nguyen-2017-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memetic algorithm with route decomposing for periodic capacitated arc routing problem</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2017-memetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2017-memetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A competitive divide-and-conquer algorithm for unconstrained large-scale black-box optimization</title>
+      <link>https://meiyi1986.github.io/publication/mei-2016-competitive/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2016-competitive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of the Inertia Weight Parameter for Binary Particle Swarm Optimization</title>
+      <link>https://meiyi1986.github.io/publication/liu-2016-analysis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/liu-2016-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic selection of evolutionary operators based on online learning and fitness landscape analysis</title>
+      <link>https://meiyi1986.github.io/publication/consoli-2016-dynamic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/consoli-2016-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient meta-heuristics for the multi-objective time-dependent orienteering problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2016-efficient/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2016-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On investigation of interdependence between sub-problems of the travelling thief problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2016-investigation/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2016-investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperative co-evolution with differential grouping for large scale optimization</title>
+      <link>https://meiyi1986.github.io/publication/omidvar-2014-cooperative/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/omidvar-2014-cooperative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperative coevolution with route distance grouping for large-scale capacitated arc routing problems</title>
+      <link>https://meiyi1986.github.io/publication/mei-2014-cooperative/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2014-cooperative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A memetic algorithm for periodic capacitated arc routing problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2011-memetic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2011-memetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposition-based memetic algorithm for multiobjective capacitated arc routing problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2011-decomposition/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2011-decomposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A global repair operator for capacitated arc routing problem</title>
+      <link>https://meiyi1986.github.io/publication/mei-2009-global/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2009-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memetic algorithm with extended neighborhood search for capacitated arc routing problems</title>
+      <link>https://meiyi1986.github.io/publication/tang-2009-memetic/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/tang-2009-memetic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

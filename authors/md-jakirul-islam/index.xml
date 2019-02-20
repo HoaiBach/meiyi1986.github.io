@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Md Jakirul Islam on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/md-jakirul-islam/</link>
+    <description>Recent content in Md Jakirul Islam on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/md-jakirul-islam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A time-varying transfer function for balancing the exploration and exploitation ability of a binary PSO</title>
+      <link>https://meiyi1986.github.io/publication/islam-2017-time/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/islam-2017-time/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

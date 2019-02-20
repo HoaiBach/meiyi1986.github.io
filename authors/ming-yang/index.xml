@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ming Yang on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/ming-yang/</link>
+    <description>Recent content in Ming Yang on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/ming-yang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DG2: A faster and more accurate differential grouping for large-scale black-box optimization</title>
+      <link>https://meiyi1986.github.io/publication/omidvar-2017-dg-2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/omidvar-2017-dg-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

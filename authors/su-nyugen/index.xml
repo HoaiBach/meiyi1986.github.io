@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Su Nyugen on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/su-nyugen/</link>
+    <description>Recent content in Su Nyugen on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/su-nyugen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feature selection in evolving job shop dispatching rules with genetic programming</title>
+      <link>https://meiyi1986.github.io/publication/mei-2016-feature/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2016-feature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

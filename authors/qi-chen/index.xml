@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qi Chen on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/qi-chen/</link>
+    <description>Recent content in Qi Chen on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/qi-chen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Geometric semantic crossover with an angle-aware mating scheme in genetic programming for symbolic regression</title>
+      <link>https://meiyi1986.github.io/publication/chen-2017-geometric/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/chen-2017-geometric/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

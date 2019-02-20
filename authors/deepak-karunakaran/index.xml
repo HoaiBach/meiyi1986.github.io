@@ -6,7 +6,7 @@
     <description>Recent content in Deepak Karunakaran on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +1200</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/deepak-karunakaran/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>Sampling Heuristics for Multi-objective Dynamic Job Shop Scheduling Using Island Based Parallel Genetic Programming</title>
       <link>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward evolving dispatching rules for dynamic job shop scheduling under uncertainty</title>
+      <link>https://meiyi1986.github.io/publication/karunakaran-2017-toward/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/karunakaran-2017-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving dispatching rules for dynamic Job shop scheduling with uncertain processing times</title>
+      <link>https://meiyi1986.github.io/publication/karunakaran-2017-evolving/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/karunakaran-2017-evolving/</guid>
       <description></description>
     </item>
     
@@ -26,24 +44,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/karunakaran-2017-dynamic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolving dispatching rules for dynamic Job shop scheduling with uncertain processing times</title>
-      <link>https://meiyi1986.github.io/publication/karunakaran-2017-evolving/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/karunakaran-2017-evolving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toward evolving dispatching rules for dynamic job shop scheduling under uncertainty</title>
-      <link>https://meiyi1986.github.io/publication/karunakaran-2017-toward/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/karunakaran-2017-toward/</guid>
       <description></description>
     </item>
     

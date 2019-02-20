@@ -6,7 +6,7 @@
     <description>Recent content in Yi Mei @ VUW on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +1300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -139,43 +139,16 @@
     <item>
       <title>A Genetic Programming Hyper-heuristic Approach for Online Resource Allocation in Container-Based Clouds</title>
       <link>https://meiyi1986.github.io/publication/tan-2018-genetic/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/tan-2018-genetic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Hybrid Genetic Programming Algorithm for Automated Design of Dispatching Rules</title>
-      <link>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Hybrid Memetic Approach for Fully Automated Multi-Objective Web Service Composition</title>
-      <link>https://meiyi1986.github.io/publication/da-2018-hybrid/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/da-2018-hybrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A bi-level optimization model for grouping constrained storage location assignment problems</title>
-      <link>https://meiyi1986.github.io/publication/xie-2018-bi/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/xie-2018-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Adaptive Reference Point Generation for Many-Objective Optimization Using NSGA-III</title>
       <link>https://meiyi1986.github.io/publication/masood-2018-adaptive/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/masood-2018-adaptive/</guid>
       <description></description>
@@ -184,52 +157,61 @@
     <item>
       <title>An Improved Genetic Programming Hyper-Heuristic for the Uncertain Capacitated Arc Routing Problem</title>
       <link>https://meiyi1986.github.io/publication/maclachlan-2018-improved/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/maclachlan-2018-improved/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An investigation of ensemble combination schemes for genetic programming based hyper-heuristic approaches to dynamic job shop scheduling</title>
-      <link>https://meiyi1986.github.io/publication/park-2018-investigation/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/park-2018-investigation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolutionary Multi-Objective Optimization for Web Service Location Allocation Problem</title>
-      <link>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evolutionary Multitask Optimisation for Dynamic Job Shop Scheduling Using Niched Genetic Programming</title>
       <link>https://meiyi1986.github.io/publication/park-2018-evolutionary/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2018-evolutionary/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evolutionary computation for automatic Web service composition: an indirect representation approach</title>
-      <link>https://meiyi1986.github.io/publication/da-2018-evolutionary/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <title>Genetic programming with multi-tree representation for dynamic flexible job shop scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2018-genetic/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
-      <guid>https://meiyi1986.github.io/publication/da-2018-evolutionary/</guid>
+      <guid>https://meiyi1986.github.io/publication/zhang-2018-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate-assisted genetic programming for dynamic flexible job shop scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2018-surrogate/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2018-surrogate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Discriminative Knowledge-Guided Medical Concepts for Classifying Coronary Artery Disease Notes</title>
+      <link>https://meiyi1986.github.io/publication/abdollahi-2018-uncovering/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/abdollahi-2018-uncovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling Heuristics for Multi-objective Dynamic Job Shop Scheduling Using Island Based Parallel Genetic Programming</title>
+      <link>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature Construction in Genetic Programming Hyper-Heuristic for Dynamic Flexible Job Shop Scheduling</title>
       <link>https://meiyi1986.github.io/publication/yska-2018-feature/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/yska-2018-feature/</guid>
       <description></description>
@@ -238,9 +220,27 @@
     <item>
       <title>Genetic Programming Hyper-Heuristic for Multi-Vehicle Uncertain Capacitated Arc Routing Problem</title>
       <link>https://meiyi1986.github.io/publication/mei-2018-genetic-1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/mei-2018-genetic-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Genetic Programming Algorithm for Automated Design of Dispatching Rules</title>
+      <link>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary computation for automatic Web service composition: an indirect representation approach</title>
+      <link>https://meiyi1986.github.io/publication/da-2018-evolutionary/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2018-evolutionary/</guid>
       <description></description>
     </item>
     

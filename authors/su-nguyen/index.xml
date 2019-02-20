@@ -6,69 +6,69 @@
     <description>Recent content in Su Nguyen on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/su-nguyen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Hybrid Genetic Programming Algorithm for Automated Design of Dispatching Rules</title>
-      <link>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An investigation of ensemble combination schemes for genetic programming based hyper-heuristic approaches to dynamic job shop scheduling</title>
-      <link>https://meiyi1986.github.io/publication/park-2018-investigation/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/park-2018-investigation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evolutionary Multitask Optimisation for Dynamic Job Shop Scheduling Using Niched Genetic Programming</title>
       <link>https://meiyi1986.github.io/publication/park-2018-evolutionary/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2018-evolutionary/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>A Hybrid Genetic Programming Algorithm for Automated Design of Dispatching Rules</title>
+      <link>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Investigating a Machine Breakdown Genetic Programming Approach for Dynamic Job Shop Scheduling</title>
       <link>https://meiyi1986.github.io/publication/park-2018-investigating/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2018-investigating/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An efficient feature selection algorithm for evolving job shop scheduling rules with genetic programming</title>
-      <link>https://meiyi1986.github.io/publication/mei-2017-efficient/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      <title>An investigation of ensemble combination schemes for genetic programming based hyper-heuristic approaches to dynamic job shop scheduling</title>
+      <link>https://meiyi1986.github.io/publication/park-2018-investigation/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +1300</pubDate>
       
-      <guid>https://meiyi1986.github.io/publication/mei-2017-efficient/</guid>
+      <guid>https://meiyi1986.github.io/publication/park-2018-investigation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constrained Dimensionally Aware Genetic Programming for Evolving Interpretable Dispatching Rules in Dynamic Job Shop Scheduling</title>
       <link>https://meiyi1986.github.io/publication/mei-2017-constrained/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/mei-2017-constrained/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>An efficient feature selection algorithm for evolving job shop scheduling rules with genetic programming</title>
+      <link>https://meiyi1986.github.io/publication/mei-2017-efficient/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/mei-2017-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolving time-invariant dispatching rules in job shop scheduling with genetic programming</title>
       <link>https://meiyi1986.github.io/publication/mei-2017-evolving/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/mei-2017-evolving/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Genetic programming for production scheduling: a survey with a unified framework</title>
       <link>https://meiyi1986.github.io/publication/nguyen-2017-genetic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/nguyen-2017-genetic/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Evolutionary scheduling and combinatorial optimisation: Applications, challenges, and future directions</title>
       <link>https://meiyi1986.github.io/publication/nguyen-2016-evolutionary/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/nguyen-2016-evolutionary/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Genetic programming based hyper-heuristics for dynamic job shop scheduling: cooperative coevolutionary approaches</title>
       <link>https://meiyi1986.github.io/publication/park-2016-genetic/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +1300</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2016-genetic/</guid>
       <description></description>

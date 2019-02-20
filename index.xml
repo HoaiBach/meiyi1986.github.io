@@ -15,7 +15,71 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://meiyi1986.github.io/ecco/</guid>
-      <description></description>
+      <description>
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Evolutionary Computation for Combinatorial Optimisation (ECCO) Group is a sub-group under the &lt;a href=&#34;https://ecs.victoria.ac.nz/Groups/ECRG/&#34;&gt;Evolutionary Computation Research Group&lt;/a&gt; in Victoria University of Wellington, New Zealand. The group has a wide range of research interests and projects in solving combinatorial optimisation problems using evolutionary computation, including evolutionary vehicle/arc routing, job shop scheduling, cloud resource allocation, Web service composition.&lt;/p&gt;
+
+&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+
+&lt;h3 id=&#34;staff-members&#34;&gt;Staff Members&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meiyi1986.github.io&#34;&gt;Dr. Yi Mei (Coordinator)&lt;/a&gt;: Evolutionary Combinatorial Optimisation, Hyper-heuristics, Genetic Programming, Dynamic Optimisation, Large-Scale Optimisation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://homepages.ecs.vuw.ac.nz/~mengjie/&#34;&gt;Prof. Mengjie Zhang&lt;/a&gt;: Evolutionary Computation and Machine Learning, Genetic Programming, Image Processing, Feature Selection&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/AaronChen&#34;&gt;Dr. Aaron Chen&lt;/a&gt;: Reinforcement Learning, NeuroEvolution (NEAT), Evolutionary Computation for Games, Evolutionary Scheduling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/HuiMa&#34;&gt;Dr. Hui Ma&lt;/a&gt;: Evolutionary Resource Allocation, Web Service Composition, Cloud Computing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/AlexandreSawczukdaSilva&#34;&gt;Alexandre Sawczuk da Silva&lt;/a&gt;: Evolutionary Web Service Composition and Combinatorial Optimisation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evoscheduling.wordpress.com/&#34;&gt;Dr. Su Nguyen (Australia)&lt;/a&gt;: Evolutionary Scheduling and Combinatorial Optimisation, Hyper-heuristics, Genetic Programming&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/GradMahdiAbdollahi&#34;&gt;Mahdi Abdollahi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradMazharAnsariArdeh&#34;&gt;Mazhar Anzari Ardeh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.victoria.ac.nz/architecture/research/current-phd-research/harry-yi-he&#34;&gt;Harry He&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradGuiyingHuang&#34;&gt;Victoria Huang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradDeepakKarunakaran&#34;&gt;Deepak Karunakaran&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradAtiyaMasood&#34;&gt;Atiya Masood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradJohnPark&#34;&gt;John Park&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradYimingPeng&#34;&gt;Yiming Peng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradSoheilaSadeghiram&#34;&gt;Soheila Sadeghiram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradTaoShi&#34;&gt;Tao Shi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradBoxiongTan&#34;&gt;Boxiong Tan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradChenWang&#34;&gt;Chen Wang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/GradFangfangZhang&#34;&gt;Fangfang Zhang&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;alumni&#34;&gt;Alumni&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/AlexandreSawczukdaSilva&#34;&gt;Alexandre Sawczuk da Silva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.nz/citations?user=YctRNIMAAAAJ&amp;hl=en&#34;&gt;Yuxin Liu (graduated in 2018)&lt;/a&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sms.victoria.ac.nz/Main/GradRachelHunt&#34;&gt;Rachel Hunt (graduated 2016)&lt;/a&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
+
+&lt;p&gt;We have regularly weekly meeting at &lt;strong&gt;3pm, Tuesdays&lt;/strong&gt;, at &lt;strong&gt;CO431&lt;/strong&gt; (&lt;a href=&#34;https://meiyi1986.github.io/ecco-talks/&#34;&gt;List of talks&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;visitors&#34;&gt;Visitors&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2018/11/20, &lt;strong&gt;&lt;a href=&#34;https://www.rmit.edu.au/contact/staff-contacts/academic-staff/s/song-dr-andy&#34;&gt;Dr Andy Song&lt;/a&gt;&lt;/strong&gt;, Senior Lecturer, RMIT University, Australia.&lt;/li&gt;
+&lt;li&gt;2018/04/27&amp;ndash;2018/05/12, &lt;strong&gt;&lt;a href=&#34;https://www.wbs.ac.uk/about/person/juergen-branke/&#34;&gt;Prof Juergen Branke&lt;/a&gt;&lt;/strong&gt;, Professor of Operational Research, The University of Warwick, UK.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;Dr. Yi Mei (Coordinator)
+Room CO353, Cotton Building,
+Victoria University of Wellington,
+Kelburn, Wellington, New Zealand
+E-mail: &lt;a href=&#34;mailto:yi.mei@ecs.vuw.ac.nz&#34;&gt;yi.mei AT ecs.vuw.ac.nz&lt;/a&gt;
+Phone: +64 4 463 5233 x 8016&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -146,6 +210,66 @@
     </item>
     
     <item>
+      <title>Talks of the ECCO group</title>
+      <link>https://meiyi1986.github.io/ecco-talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/ecco-talks/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2018/12/04, &lt;strong&gt;Jordan MacLaclan&lt;/strong&gt;, practice on the AI paper presentation.&lt;/li&gt;
+&lt;li&gt;2018/11/27, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradMahdiAbdollahi&#34;&gt;Mahdi Abdollahi&lt;/a&gt;&lt;/strong&gt;, practice on PhD proposal presentation: text classification in medical domain.&lt;/li&gt;
+&lt;li&gt;2018/11/20, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradMazharAnsariArdeh&#34;&gt;Mazhar Anzari Ardeh&lt;/a&gt;&lt;/strong&gt;, transfer learning in GPHH for UCARP.&lt;/li&gt;
+&lt;li&gt;2018/11/14, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradMahdiAbdollahi&#34;&gt;Mahdi Abdollahi&lt;/a&gt;&lt;/strong&gt;, discussions on PhD proposal: text classification in medical domain.&lt;/li&gt;
+&lt;li&gt;2018/11/07, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradGuiyingHuang&#34;&gt;Victoria Huang&lt;/a&gt;&lt;/strong&gt;, solving scheduling problems with reinforcement learning.&lt;/li&gt;
+&lt;li&gt;2018/10/30, &lt;strong&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/AaronChen&#34;&gt;Aaron Chen&lt;/a&gt;&lt;/strong&gt;, introduction on reinforcement learning.&lt;/li&gt;
+&lt;li&gt;2018/10/23, &lt;strong&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/YiMei&#34;&gt;Yi Mei&lt;/a&gt;&lt;/strong&gt;, introduction on &amp;ldquo;combinatorial optimisation and how to solve it&amp;rdquo;: part 2.&lt;/li&gt;
+&lt;li&gt;2018/10/16, &lt;strong&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/YiMei&#34;&gt;Yi Mei&lt;/a&gt;&lt;/strong&gt;, introduction on &amp;ldquo;combinatorial optimisation and how to solve it&amp;rdquo;: part 1.&lt;/li&gt;
+&lt;li&gt;2018/10/09, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradTaoShi&#34;&gt;Tao Shi&lt;/a&gt;&lt;/strong&gt;, practice on Australasian AI 2018 presentation.&lt;/li&gt;
+&lt;li&gt;2018/10/02, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradFangFangZhang&#34;&gt;Fangfang Zhang&lt;/a&gt;&lt;/strong&gt;, practice on the PhD proposal seminar.&lt;/li&gt;
+&lt;li&gt;2018/09/25, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradMahdiAbdollahi&#34;&gt;Mahdi Abdollahi&lt;/a&gt;&lt;/strong&gt;, practice on Australasian AI 2018 presentation.&lt;/li&gt;
+&lt;li&gt;2018/09/18, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradChenWang&#34;&gt;Chen Wang&lt;/a&gt;&lt;/strong&gt;, practice on Australasian AI 2018 presentation.&lt;/li&gt;
+&lt;li&gt;2018/09/11, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradJohnPark&#34;&gt;John Park&lt;/a&gt;&lt;/strong&gt;, practice on Australasian AI 2018 presentation.&lt;/li&gt;
+&lt;li&gt;2018/09/04, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradFangFangZhang&#34;&gt;Fangfang Zhang&lt;/a&gt;&lt;/strong&gt;, practice on Australasian AI 2018 presentation.&lt;/li&gt;
+&lt;li&gt;2018/08/28, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradBoxiongTan&#34;&gt;Boxiong Tan&lt;/a&gt;&lt;/strong&gt;, practice on Australasian AI 2018 presentation.&lt;/li&gt;
+&lt;li&gt;2018/08/21, &lt;strong&gt;Whole group&lt;/strong&gt;, watch video and discussion: &lt;a href=&#34;https://www.youtube.com/watch?v=5fHMg0JkfqY&#34;&gt;&amp;ldquo;how to publish your research&amp;rdquo;&lt;/a&gt; by Xin Yao.&lt;/li&gt;
+&lt;li&gt;2018/08/14, &lt;strong&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Binzi_Xu&#34;&gt;Binzi Xu&lt;/a&gt;&lt;/strong&gt;, optimising energy consumption in real-world manufacturing scheduling.&lt;/li&gt;
+&lt;li&gt;2018/08/07, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradSoheilaSadeghiram&#34;&gt;Soheila Sadeghiram&lt;/a&gt;&lt;/strong&gt;, practice on PhD proposal seminar.&lt;/li&gt;
+&lt;li&gt;2018/07/31, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradJohnPark&#34;&gt;John Park&lt;/a&gt;&lt;/strong&gt;, multi-task learning of dispatching rules in job shop scheduling.&lt;/li&gt;
+&lt;li&gt;2018/07/24, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/YiMei&#34;&gt;Yi Mei&lt;/a&gt;&lt;/strong&gt;, experience in IEEE WCCI 2018 and ACM GECCO 2018.&lt;/li&gt;
+&lt;li&gt;2018/07/17, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradMazharAnsariArdeh&#34;&gt;Mazhar Anzari Ardeh&lt;/a&gt;&lt;/strong&gt;, ICA.&lt;/li&gt;
+&lt;li&gt;2018/07/10, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradBoxiongTan&#34;&gt;Boxiong Tan&lt;/a&gt;&lt;/strong&gt;, Recent work.&lt;/li&gt;
+&lt;li&gt;2018/07/03, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradGuiyingHuang&#34;&gt;Victoria Huang&lt;/a&gt;&lt;/strong&gt;, learning scheduling policy in SDN using reinforcement learning.&lt;/li&gt;
+&lt;li&gt;2018/06/26, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradFangFangZhang&#34;&gt;Fangfang Zhang&lt;/a&gt;&lt;/strong&gt;, multi-tree genetic programming for dynamic flexible job shop scheduling.&lt;/li&gt;
+&lt;li&gt;2018/06/19, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradChenWang&#34;&gt;Chen Wang&lt;/a&gt;&lt;/strong&gt;, EDA for semantic-aware Web service composition.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2018/06/12, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradSoheilaSadeghiram&#34;&gt;Soheila Sadeghiram&lt;/a&gt;&lt;/strong&gt;, objectives for PhD proposal: part 2.&lt;/li&gt;
+&lt;li&gt;2018/06/05, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradSoheilaSadeghiram&#34;&gt;Soheila Sadeghiram&lt;/a&gt;&lt;/strong&gt;, objectives for PhD proposal: part 1.&lt;/li&gt;
+&lt;li&gt;2018/05/29, &lt;strong&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/GradMahdiAbdollahi&#34;&gt;Mahdi Abdollahi&lt;/a&gt;&lt;/strong&gt;, brief review on text classification.&lt;/li&gt;
+&lt;li&gt;2018/05/22, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradYimingPeng&#34;&gt;Yiming Peng&lt;/a&gt;&lt;/strong&gt;, reinforcement learning for TSP.&lt;/li&gt;
+&lt;li&gt;2018/05/15, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradYimingPeng&#34;&gt;Yiming Peng&lt;/a&gt;&lt;/strong&gt;, evolutionary strategies: Part 2. Slides available &lt;a href=&#34;resources/Evolutionary_Strategies.pptx&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;2018/05/08, &lt;strong&gt;&lt;a href=&#34;https://www.wbs.ac.uk/about/person/juergen-branke/&#34;&gt;Prof Juergen Branke&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;Seminar&lt;/strong&gt;: evolutionary scheduling in dynamic environment.&lt;/li&gt;
+&lt;li&gt;2018/05/01, &lt;strong&gt;Whole group&lt;/strong&gt;, &lt;a href=&#34;https://www.wbs.ac.uk/about/person/juergen-branke/&#34;&gt;Prof Juergen Branke&lt;/a&gt;&amp;rsquo;s visit: general discussions.&lt;/li&gt;
+&lt;li&gt;2018/04/24, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradYimingPeng&#34;&gt;Yiming Peng&lt;/a&gt;&lt;/strong&gt;, evolutionary strategies: Part 1. Slides available &lt;a href=&#34;resources/Evolutionary_Strategies.pptx&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;2018/04/17, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradBoxiongTan&#34;&gt;Boxiong Tan&lt;/a&gt;&lt;/strong&gt;, literature management using mind map and SQL.&lt;/li&gt;
+&lt;li&gt;2018/04/10, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradJohnPark&#34;&gt;John Park&lt;/a&gt;&lt;/strong&gt;, recent work on job shop scheduling.&lt;/li&gt;
+&lt;li&gt;2018/03/27, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradBoxiongTan&#34;&gt;Boxiong Tan&lt;/a&gt;&lt;/strong&gt;, organisation of literature review.&lt;/li&gt;
+&lt;li&gt;2018/03/20, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradAlexandreSawczukdaSilva&#34;&gt;Alexandre Sawczuk da Silva&lt;/a&gt;&lt;/strong&gt;, structure of his PhD thesis.&lt;/li&gt;
+&lt;li&gt;2018/03/13, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradChenWang&#34;&gt;Chen Wang&lt;/a&gt;&lt;/strong&gt;, variational inference in autoencoder.&lt;/li&gt;
+&lt;li&gt;2018/03/06, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradSoheilaSadeghiram&#34;&gt;Soheila Sadeghiram&lt;/a&gt;&lt;/strong&gt;, neural network and fuzzy system for text classification.&lt;/li&gt;
+&lt;li&gt;2018/01/16, &lt;strong&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/GradMahdiAbdollahi&#34;&gt;Mahdi Abdollahi&lt;/a&gt;&lt;/strong&gt;, introduction to Imperialist Competitive Algorithm (ICA), based on this &lt;a href=&#34;resources/ICA_Atashpaz.pdf&#34;&gt;CEC2007 paper&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;2017/11/07, &lt;strong&gt;Whole group&lt;/strong&gt;, discussions based on the video: &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=pcl08XA1REM&#34;&gt;What Can Evolutionary Computation Do For You&lt;/a&gt;&amp;rdquo; by Xin Yao&lt;/li&gt;
+&lt;li&gt;2017/10/31, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradBoxiongTan&#34;&gt;Boxiong Tan&lt;/a&gt;&lt;/strong&gt;, PhD proposal seminar practice 2: &amp;ldquo;Evolutionary computation for container-based resource allocation&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;2017/10/24, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradBoxiongTan&#34;&gt;Boxiong Tan&lt;/a&gt;&lt;/strong&gt;, PhD proposal seminar practice 1: &amp;ldquo;Evolutionary computation for container-based resource allocation&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;2017/10/17, &lt;strong&gt;Whole group&lt;/strong&gt;, Watch video: &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=pcl08XA1REM&#34;&gt;What Can Evolutionary Computation Do For You&lt;/a&gt;&amp;rdquo; by Xin Yao&lt;/li&gt;
+&lt;li&gt;2017/10/10, &lt;strong&gt;Whole group&lt;/strong&gt;, Practice on &amp;ldquo;how to read a paper&amp;rdquo; &amp;ndash; reading &amp;ldquo;&lt;a href=&#34;http://ieeexplore.ieee.org/abstract/document/873238/&#34;&gt;Stochastic Ranking for Constrained Evolutionary Optimization&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017/10/03, &lt;strong&gt;Whole group&lt;/strong&gt;, Discussion on &amp;ldquo;how to read a paper&amp;rdquo;, part II&lt;/li&gt;
+&lt;li&gt;2017/09/26, &lt;strong&gt;Whole group&lt;/strong&gt;, Discussion on &amp;ldquo;how to read a paper&amp;rdquo;, part I&lt;/li&gt;
+&lt;li&gt;2017/09/19, &lt;strong&gt;&lt;a href=&#34;https://scholar.google.co.nz/citations?user=YctRNIMAAAAJ&amp;hl=en&#34;&gt;Yuxin Liu&lt;/a&gt;&lt;/strong&gt;, Discussion on &amp;ldquo;An Evoluationary Approach to the Multidepot Capacitated Arc Routing Problems&amp;rdquo;, &lt;a href=&#34;resources/20170919report.pptx&#34;&gt;[PPT]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017/09/12, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradAtiyaMasood&#34;&gt;Atiya Masood&lt;/a&gt;&lt;/strong&gt;, Reference point adaptation during many-objective optimisation (Part 1)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Genetic Programming Hyper-heuristic Approach for Online Resource Allocation in Container-Based Clouds</title>
       <link>https://meiyi1986.github.io/publication/tan-2018-genetic/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
@@ -232,15 +356,6 @@
       <pubDate>Sun, 01 Jul 2018 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/mei-2018-genetic-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Hybrid Genetic Programming Algorithm for Automated Design of Dispatching Rules</title>
-      <link>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +1200</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/nguyen-2018-hybrid/</guid>
       <description></description>
     </item>
     

@@ -12,6 +12,15 @@
     
     <item>
       <title></title>
+      <link>https://meiyi1986.github.io/home/hero_carousel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://meiyi1986.github.io/home/slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -25,9 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://meiyi1986.github.io/home/hero/</guid>
-      <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
-Build Anything with Widgets
-Star</description>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
     </item>
     
     <item>
@@ -81,8 +88,7 @@ Star</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://meiyi1986.github.io/home/publications/</guid>
-      <description> Quickly discover relevant content by filtering publications.
-  </description>
+      <description></description>
     </item>
     
     <item>
@@ -128,8 +134,7 @@ Star</description>
       
       <guid>https://meiyi1986.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
-This section also demonstrates how to apply the background option to create an image parallax effect. Backgrounds can be applied to any section.
-  To remove this section, either delete content/home/teaching.md or edit the front matter of the file to deactivate the widget by setting active = false.</description>
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>

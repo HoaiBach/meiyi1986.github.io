@@ -70,7 +70,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://meiyi1986.github.io/home/news/</guid>
-      <description>[PhD Vacancy] I am looking for PhD/MSc/Honours/Summer Research students in Evolutionary Computation and Machine Learning for Scheduling and Combinatorial Optimisation. If you have similar research interests with me, please do not hesitate to contact me. 2018-12, our paper won the Australasian Joint Conference on Artificial Intelligence Best Paper Runner-Up Award! 2018-11, I received a Victoria University of Wellington Early Research Excellence Award! 2018-07, our paper was ranked the International Conference on Web Services (ARC/CORE Rank A) Best Paper Runner-Up!</description>
+      <description>[PhD Vacancy] I am looking for PhD/MSc/Honours/Summer Research students in Evolutionary Computation and Machine Learning for Scheduling and Combinatorial Optimisation. If you have similar research interests with me, please do not hesitate to contact me.
+ 2018-12, our paper won the Australasian Joint Conference on Artificial Intelligence Best Paper Runner-Up Award!
+ 2018-11, I received a Victoria University of Wellington Early Research Excellence Award!
+ 2018-07, our paper was ranked the International Conference on Web Services (ARC/CORE Rank A) Best Paper Runner-Up!</description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://meiyi1986.github.io/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/home/teaching/</guid>
+      <description> 2018: Introduction to Artificial Intelligence (COMP307) 2018: Algorithms and Data Structures (COMP261) 2018: Data Mining, Neural Networks and Genetic Programming (COMP422)
+ 2017: Algorithms and Data Structures (COMP261)
+ 2017: Software Development (SWEN221)
+ 2017: Data Mining, Neural Networks and Genetic Programming (COMP422)
+ 2017: Database System Engineering (SWEN304)
+ 2016: Introduction to Artificial Intelligence (COMP307)
+ 2016: Data Mining, Neural Network and Genetic Programming (COMP422)
+  </description>
     </item>
     
     <item>
@@ -138,10 +157,10 @@
     
     <item>
       <title>Custom Section</title>
-      <link>https://meiyi1986.github.io/home/teaching/</link>
+      <link>https://meiyi1986.github.io/home/custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://meiyi1986.github.io/home/teaching/</guid>
+      <guid>https://meiyi1986.github.io/home/custom/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>

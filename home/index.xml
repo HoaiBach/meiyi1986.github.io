@@ -47,33 +47,6 @@
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>https://meiyi1986.github.io/home/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://meiyi1986.github.io/home/teaching/</guid>
-      <description> 2019  Algorithms and Data Structures (COMP261) [Course Coordinator] Introduction to Artificial Intelligence (COMP307) Data Mining, Neural Networks and Genetic Programming (COMP422)  2018  Algorithms and Data Structures (COMP261) [Course Coordinator] Design and Analysis of Algorithms (COMP361) [Course Coordinator] Introduction to Artificial Intelligence (COMP307) Data Mining, Neural Networks and Genetic Programming (COMP422)  2017  Algorithms and Data Structures (COMP261) Software Development (SWEN221) Data Mining, Neural Networks and Genetic Programming (COMP422) Database System Engineering (SWEN304)  2016  Introduction to Artificial Intelligence (COMP307) Data Mining, Neural Network and Genetic Programming (COMP422)  </description>
-    </item>
-    
-    <item>
-      <title>Supervision</title>
-      <link>https://meiyi1986.github.io/home/supervision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://meiyi1986.github.io/home/supervision/</guid>
-      <description>PhD  Fangfang Zhang (Victoria University of Wellington, 2017): &amp;ldquo;Genetic Programming for Dynamic Flexible Job Shop Scheduling&amp;rdquo; (with Prof Mengjie Zhang) Mazhar Anzari Ardeh (Victoria University of Wellington, 2018): &amp;ldquo;Genetic Programming and Transfer Learning for Uncertain Arc Routing&amp;rdquo; (with Prof Mengjie Zhang) Mahdi Abdollahi (Victoria University of Wellington, 2017): &amp;ldquo;Evolutionary Text Mining&amp;rdquo; (with Dr Sharon Gao, Prof Jinyan Li (UTS), and Dr Shameek Ghosh) Harry He (Victoria University of Wellington, 2017): &amp;ldquo;Optimisation of Urban Layout Design&amp;rdquo; (with Prof Marc Aurel Schnabel) Boxiong Tan (Victoria University of Wellington, 2016): &amp;ldquo;Evolutionary Web Service Provisioning and Scheduling&amp;rdquo; (with Dr Hui Ma) John Park (Victoria University of Wellington, 2015): &amp;ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop&amp;rdquo; (with Dr Aaron Chen, Dr Su Nguyen, and Prof Mengjie Zhang) Atiya Masood (Victoria University of Wellington, 2015): &amp;ldquo;Many-Objective Job Shop Scheduling&amp;rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang) Deepak Karunakaran (Victoria University of Wellington, 2015): &amp;ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop Scheduling&amp;rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang) Alexandre Sawczuk Da Silva (Victoria University of Wellington, graduated in 2019): &amp;ldquo;Evolutionary QoS-based Web Service Composition&amp;rdquo; (with Dr Hui Ma, and Prof Mengjie Zhang) Md.</description>
-    </item>
-    
-    <item>
-      <title>Professional Services</title>
-      <link>https://meiyi1986.github.io/home/services/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://meiyi1986.github.io/home/services/</guid>
-      <description>Editorship  Editorial Board Member of International Journal of Bio-Inspired Computation Associate Editor of International Journal of Applied Evolutionary Computation Guest Editor of Special Issue on Automated Design and Adaptation of Heuristics for Scheduling and Combinatorial Optimisation, Genetic Programming and Evolvable Machines, 2016  Conference Organisation  Proceedings Chair, IEEE Congress on Evolutionary Computation (CEC) 2019 Tutorial Co-chair, Pacific Rim International Conferences on Artificial Intelligence (PRICAI) 2019 Sponsorship Chair, Australasian Joint Conference on Artificial Intelligence 2018 Technical Co-chair, International Conference on Data Intelligence and Security (ICDIS) 2018 Organisational Committee Member, International Conference on Computers and Industrial Engineering (CIE) 2018 Co-chair of Special Session on Evolutionary Scheduling and Combinatorial Optimisation, IEEE Congress on Evolutionary Computation (CEC) 2016, 2017, 2018, 2019 Co-chair of Special Session on Evolutionary Computation for Service-Oriented Computing, IEEE Congress on Evolutionary Computation (CEC) 2017, 2018, 2019 Co-chair of Special Session on Transfer Learning in Evolutionary Computation, IEEE Congress on Evolutionary Computation (CEC) 2016 Co-chair of Special Session on Computational Intelligence for Scheduling and Combinatorial Optimization, Asia-Pacific Symposium on Intelligent and Evolutionary Systems (IES) 2016  Conference Program Committee Member I serve as a PC member of ~40 international conferences (full list).</description>
-    </item>
-    
-    <item>
       <title>Skills</title>
       <link>https://meiyi1986.github.io/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -113,6 +86,16 @@
     </item>
     
     <item>
+      <title>Research</title>
+      <link>https://meiyi1986.github.io/home/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/home/research/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
       <title>Featured Publications</title>
       <link>https://meiyi1986.github.io/home/publications_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -128,6 +111,33 @@
       
       <guid>https://meiyi1986.github.io/home/publications/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://meiyi1986.github.io/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/home/teaching/</guid>
+      <description> 2019  Algorithms and Data Structures (COMP261) [Course Coordinator] Introduction to Artificial Intelligence (COMP307) Data Mining, Neural Networks and Genetic Programming (COMP422)  2018  Algorithms and Data Structures (COMP261) [Course Coordinator] Design and Analysis of Algorithms (COMP361) [Course Coordinator] Introduction to Artificial Intelligence (COMP307) Data Mining, Neural Networks and Genetic Programming (COMP422)  2017  Algorithms and Data Structures (COMP261) Software Development (SWEN221) Data Mining, Neural Networks and Genetic Programming (COMP422) Database System Engineering (SWEN304)  2016  Introduction to Artificial Intelligence (COMP307) Data Mining, Neural Network and Genetic Programming (COMP422)  </description>
+    </item>
+    
+    <item>
+      <title>Supervision</title>
+      <link>https://meiyi1986.github.io/home/supervision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/home/supervision/</guid>
+      <description>PhD  Fangfang Zhang (Victoria University of Wellington, 2017): &amp;ldquo;Genetic Programming for Dynamic Flexible Job Shop Scheduling&amp;rdquo; (with Prof Mengjie Zhang) Mazhar Anzari Ardeh (Victoria University of Wellington, 2018): &amp;ldquo;Genetic Programming and Transfer Learning for Uncertain Arc Routing&amp;rdquo; (with Prof Mengjie Zhang) Mahdi Abdollahi (Victoria University of Wellington, 2017): &amp;ldquo;Evolutionary Text Mining&amp;rdquo; (with Dr Sharon Gao, Prof Jinyan Li (UTS), and Dr Shameek Ghosh) Harry He (Victoria University of Wellington, 2017): &amp;ldquo;Optimisation of Urban Layout Design&amp;rdquo; (with Prof Marc Aurel Schnabel) Boxiong Tan (Victoria University of Wellington, 2016): &amp;ldquo;Evolutionary Web Service Provisioning and Scheduling&amp;rdquo; (with Dr Hui Ma) John Park (Victoria University of Wellington, 2015): &amp;ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop&amp;rdquo; (with Dr Aaron Chen, Dr Su Nguyen, and Prof Mengjie Zhang) Atiya Masood (Victoria University of Wellington, 2015): &amp;ldquo;Many-Objective Job Shop Scheduling&amp;rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang) Deepak Karunakaran (Victoria University of Wellington, 2015): &amp;ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop Scheduling&amp;rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang) Alexandre Sawczuk Da Silva (Victoria University of Wellington, graduated in 2019): &amp;ldquo;Evolutionary QoS-based Web Service Composition&amp;rdquo; (with Dr Hui Ma, and Prof Mengjie Zhang) Md.</description>
+    </item>
+    
+    <item>
+      <title>Professional Services</title>
+      <link>https://meiyi1986.github.io/home/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/home/services/</guid>
+      <description>Editorship  Editorial Board Member of International Journal of Bio-Inspired Computation Associate Editor of International Journal of Applied Evolutionary Computation Guest Editor of Special Issue on Automated Design and Adaptation of Heuristics for Scheduling and Combinatorial Optimisation, Genetic Programming and Evolvable Machines, 2016  Conference Organisation  Proceedings Chair, IEEE Congress on Evolutionary Computation (CEC) 2019 Tutorial Co-chair, Pacific Rim International Conferences on Artificial Intelligence (PRICAI) 2019 Sponsorship Chair, Australasian Joint Conference on Artificial Intelligence 2018 Technical Co-chair, International Conference on Data Intelligence and Security (ICDIS) 2018 Organisational Committee Member, International Conference on Computers and Industrial Engineering (CIE) 2018 Co-chair of Special Session on Evolutionary Scheduling and Combinatorial Optimisation, IEEE Congress on Evolutionary Computation (CEC) 2016, 2017, 2018, 2019 Co-chair of Special Session on Evolutionary Computation for Service-Oriented Computing, IEEE Congress on Evolutionary Computation (CEC) 2017, 2018, 2019 Co-chair of Special Session on Transfer Learning in Evolutionary Computation, IEEE Congress on Evolutionary Computation (CEC) 2016 Co-chair of Special Session on Computational Intelligence for Scheduling and Combinatorial Optimization, Asia-Pacific Symposium on Intelligent and Evolutionary Systems (IES) 2016  Conference Program Committee Member I serve as a PC member of ~40 international conferences (full list).</description>
     </item>
     
     <item>

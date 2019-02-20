@@ -47,6 +47,18 @@
     </item>
     
     <item>
+      <title>News</title>
+      <link>https://meiyi1986.github.io/home/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/home/news/</guid>
+      <description>[PhD Vacancy] I am looking for PhD/MSc/Honours/Summer Research students in Evolutionary Computation and Machine Learning for Scheduling and Combinatorial Optimisation. If you have similar research interests with me, please do not hesitate to contact me.
+ 2018-12, our paper won the Australasian Joint Conference on Artificial Intelligence Best Paper Runner-Up Award!
+ 2018-11, I received a Victoria University of Wellington Early Research Excellence Award!
+ 2018-07, our paper was ranked the International Conference on Web Services (ARC/CORE Rank A) Best Paper Runner-Up!</description>
+    </item>
+    
+    <item>
       <title>Skills</title>
       <link>https://meiyi1986.github.io/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,18 +74,6 @@
       
       <guid>https://meiyi1986.github.io/home/experience/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://meiyi1986.github.io/home/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://meiyi1986.github.io/home/news/</guid>
-      <description>[PhD Vacancy] I am looking for PhD/MSc/Honours/Summer Research students in Evolutionary Computation and Machine Learning for Scheduling and Combinatorial Optimisation. If you have similar research interests with me, please do not hesitate to contact me.
- 2018-12, our paper won the Australasian Joint Conference on Artificial Intelligence Best Paper Runner-Up Award!
- 2018-11, I received a Victoria University of Wellington Early Research Excellence Award!
- 2018-07, our paper was ranked the International Conference on Web Services (ARC/CORE Rank A) Best Paper Runner-Up!</description>
     </item>
     
     <item>
@@ -95,6 +95,15 @@
     </item>
     
     <item>
+      <title>Grants &amp; Awards</title>
+      <link>https://meiyi1986.github.io/home/grants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/home/grants/</guid>
+      <description>Grants  2017-2020, &amp;ldquo;Automatic Design of Heuristics for Dynamic Arc Routing Problem with Genetic Programming&amp;rdquo;, 16-VUW-079, Marsden Fund Fast-Start Grant, $300,000 NZD. (Sole PI) 2017-2020, &amp;ldquo;Cooperative Co-evolution for Large Scale Black Box Optimisation&amp;rdquo;, 61673194, National Natural Science Foundation of China, &amp;yen;610,000 RMB (Overseas AI) 2018, “Solving Huawei’s Job Shop Scheduling Problem”, Huawei Innovation Research Program, $80,000 NZD. (Co-PI) 2018, &amp;ldquo;Real-Time Tourist Trip Recommendation using Genetic Programming&amp;rdquo;, University Research Fund, Victoria University of Wellington, $28,720 NZD (Sole PI) 2016-2018, &amp;ldquo;Digital Data in Schools: An Exploration of Research and Practice&amp;rdquo;, Victoria University of Wellington Digital Future Grant, $20,000 NZD (Co-PI) 2017, &amp;ldquo;Evolving Interpretable Flexible Job Shop Scheduling Rules with GP&amp;rdquo;, Research Establishment Grant, Victoria University of Wellington, $10,000 NZD (Sole PI) 2014, RMIT Near-miss grant ($25,000 AUD awarded for being ranked top 10% of the unsuccessful applications for the 2014 ARC DECRA funding) 2009, IEEE CIS Walter Karplus Summer Research Grant  Awards  2018, Victoria University of Wellington Early Research Excellence Award 2017, IEEE Transactions on Evolutionary Computation (top journal in EC, IF = 10.</description>
+    </item>
+    
+    <item>
       <title>Featured Publications</title>
       <link>https://meiyi1986.github.io/home/publications_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -109,6 +118,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://meiyi1986.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Talks</title>
+      <link>https://meiyi1986.github.io/home/talks_featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/home/talks_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://meiyi1986.github.io/home/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/home/talks/</guid>
       <description></description>
     </item>
     
@@ -137,33 +164,6 @@
       
       <guid>https://meiyi1986.github.io/home/services/</guid>
       <description>Editorship  Editorial Board Member of International Journal of Bio-Inspired Computation Associate Editor of International Journal of Applied Evolutionary Computation Guest Editor of Special Issue on Automated Design and Adaptation of Heuristics for Scheduling and Combinatorial Optimisation, Genetic Programming and Evolvable Machines, 2016  Conference Organisation  Proceedings Chair, IEEE Congress on Evolutionary Computation (CEC) 2019 Tutorial Co-chair, Pacific Rim International Conferences on Artificial Intelligence (PRICAI) 2019 Sponsorship Chair, Australasian Joint Conference on Artificial Intelligence 2018 Technical Co-chair, International Conference on Data Intelligence and Security (ICDIS) 2018 Organisational Committee Member, International Conference on Computers and Industrial Engineering (CIE) 2018 Co-chair of Special Session on Evolutionary Scheduling and Combinatorial Optimisation, IEEE Congress on Evolutionary Computation (CEC) 2016, 2017, 2018, 2019 Co-chair of Special Session on Evolutionary Computation for Service-Oriented Computing, IEEE Congress on Evolutionary Computation (CEC) 2017, 2018, 2019 Co-chair of Special Session on Transfer Learning in Evolutionary Computation, IEEE Congress on Evolutionary Computation (CEC) 2016 Co-chair of Special Session on Computational Intelligence for Scheduling and Combinatorial Optimization, Asia-Pacific Symposium on Intelligent and Evolutionary Systems (IES) 2016  Conference Program Committee Member I serve as a PC member of ~40 international conferences (full list).</description>
-    </item>
-    
-    <item>
-      <title>Grants &amp; Awards</title>
-      <link>https://meiyi1986.github.io/home/grants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://meiyi1986.github.io/home/grants/</guid>
-      <description>Grants  2017-2020, &amp;ldquo;Automatic Design of Heuristics for Dynamic Arc Routing Problem with Genetic Programming&amp;rdquo;, 16-VUW-079, Marsden Fund Fast-Start Grant, $300,000 NZD. (Sole PI) 2017-2020, &amp;ldquo;Cooperative Co-evolution for Large Scale Black Box Optimisation&amp;rdquo;, 61673194, National Natural Science Foundation of China, &amp;yen;610,000 RMB (Overseas AI) 2018, “Solving Huawei’s Job Shop Scheduling Problem”, Huawei Innovation Research Program, $80,000 NZD. (Co-PI) 2018, &amp;ldquo;Real-Time Tourist Trip Recommendation using Genetic Programming&amp;rdquo;, University Research Fund, Victoria University of Wellington, $28,720 NZD (Sole PI) 2016-2018, &amp;ldquo;Digital Data in Schools: An Exploration of Research and Practice&amp;rdquo;, Victoria University of Wellington Digital Future Grant, $20,000 NZD (Co-PI) 2017, &amp;ldquo;Evolving Interpretable Flexible Job Shop Scheduling Rules with GP&amp;rdquo;, Research Establishment Grant, Victoria University of Wellington, $10,000 NZD (Sole PI) 2014, RMIT Near-miss grant ($25,000 AUD awarded for being ranked top 10% of the unsuccessful applications for the 2014 ARC DECRA funding) 2009, IEEE CIS Walter Karplus Summer Research Grant  Awards  2018, Victoria University of Wellington Early Research Excellence Award 2017, IEEE Transactions on Evolutionary Computation (top journal in EC, IF = 10.</description>
-    </item>
-    
-    <item>
-      <title>Featured Talks</title>
-      <link>https://meiyi1986.github.io/home/talks_featured/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://meiyi1986.github.io/home/talks_featured/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://meiyi1986.github.io/home/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://meiyi1986.github.io/home/talks/</guid>
-      <description></description>
     </item>
     
     <item>

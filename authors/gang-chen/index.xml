@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>Adaptive Reference Point Generation for Many-Objective Optimization Using NSGA-III</title>
+      <link>https://meiyi1986.github.io/publication/masood-2018-adaptive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/masood-2018-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An investigation of ensemble combination schemes for genetic programming based hyper-heuristic approaches to dynamic job shop scheduling</title>
       <link>https://meiyi1986.github.io/publication/park-2018-investigation/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2018-investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Multitask Optimisation for Dynamic Job Shop Scheduling Using Niched Genetic Programming</title>
+      <link>https://meiyi1986.github.io/publication/park-2018-evolutionary/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/park-2018-evolutionary/</guid>
       <description></description>
     </item>
     
@@ -35,6 +53,15 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/masood-2018-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling Heuristics for Multi-objective Dynamic Job Shop Scheduling Using Island Based Parallel Genetic Programming</title>
+      <link>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</guid>
       <description></description>
     </item>
     

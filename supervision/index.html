@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.0.0">
+  <meta name="generator" content="Hugo 0.54.0" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Yi Mei">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="PhD  Fangfang Zhang (Victoria University of Wellington, 2017): &ldquo;Genetic Programming for Dynamic Flexible Job Shop Scheduling&rdquo; (with Prof Mengjie Zhang) Mazhar Anzari Ardeh (Victoria University of Wellington, 2018): &ldquo;Genetic Programming and Transfer Learning for Uncertain Arc Routing&rdquo; (with Prof Mengjie Zhang) Mahdi Abdollahi (Victoria University of Wellington, 2017): &ldquo;Evolutionary Text Mining&rdquo; (with Dr Sharon Gao, Prof Jinyan Li (UTS), and Dr Shameek Ghosh) Harry He (Victoria University of Wellington, 2017): &ldquo;Optimisation of Urban Layout Design&rdquo; (with Prof Marc Aurel Schnabel) Boxiong Tan (Victoria University of Wellington, 2016): &ldquo;Evolutionary Web Service Provisioning and Scheduling&rdquo; (with Dr Hui Ma) John Park (Victoria University of Wellington, 2015): &ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop&rdquo; (with Dr Aaron Chen, Dr Su Nguyen, and Prof Mengjie Zhang) Atiya Masood (Victoria University of Wellington, 2015): &ldquo;Many-Objective Job Shop Scheduling&rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang) Deepak Karunakaran (Victoria University of Wellington, 2015): &ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop Scheduling&rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang) Alexandre Sawczuk Da Silva (Victoria University of Wellington, graduated in 2019): &ldquo;Evolutionary QoS-based Web Service Composition&rdquo; (with Dr Hui Ma, and Prof Mengjie Zhang) Md.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://meiyi1986.github.io/supervision/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="https://meiyi1986.github.io/index.xml" type="application/rss+xml" title="Yi Mei @ VUW">
+  <link rel="feed" href="https://meiyi1986.github.io/index.xml" type="application/rss+xml" title="Yi Mei @ VUW">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://meiyi1986.github.io/supervision/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Yi Mei @ VUW">
+  <meta property="og:url" content="https://meiyi1986.github.io/supervision/">
+  <meta property="og:title" content="Supervision | Yi Mei @ VUW">
+  <meta property="og:description" content="PhD  Fangfang Zhang (Victoria University of Wellington, 2017): &ldquo;Genetic Programming for Dynamic Flexible Job Shop Scheduling&rdquo; (with Prof Mengjie Zhang) Mazhar Anzari Ardeh (Victoria University of Wellington, 2018): &ldquo;Genetic Programming and Transfer Learning for Uncertain Arc Routing&rdquo; (with Prof Mengjie Zhang) Mahdi Abdollahi (Victoria University of Wellington, 2017): &ldquo;Evolutionary Text Mining&rdquo; (with Dr Sharon Gao, Prof Jinyan Li (UTS), and Dr Shameek Ghosh) Harry He (Victoria University of Wellington, 2017): &ldquo;Optimisation of Urban Layout Design&rdquo; (with Prof Marc Aurel Schnabel) Boxiong Tan (Victoria University of Wellington, 2016): &ldquo;Evolutionary Web Service Provisioning and Scheduling&rdquo; (with Dr Hui Ma) John Park (Victoria University of Wellington, 2015): &ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop&rdquo; (with Dr Aaron Chen, Dr Su Nguyen, and Prof Mengjie Zhang) Atiya Masood (Victoria University of Wellington, 2015): &ldquo;Many-Objective Job Shop Scheduling&rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang) Deepak Karunakaran (Victoria University of Wellington, 2015): &ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop Scheduling&rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang) Alexandre Sawczuk Da Silva (Victoria University of Wellington, graduated in 2019): &ldquo;Evolutionary QoS-based Web Service Composition&rdquo; (with Dr Hui Ma, and Prof Mengjie Zhang) Md."><meta property="og:image" content="https://meiyi1986.github.io/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  
+  
+  
+
+  
+
+  
+
+  <title>Supervision | Yi Mei @ VUW</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Yi Mei @ VUW</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#news">
+            
+            <span>News</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#research">
+            
+            <span>Research</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications_featured">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#supervision">
+            
+            <span>Supervision</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#services">
+            
+            <span>Services</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#awards">
+            
+            <span>Grants&Awards</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Supervision</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Supervision&amp;url=https%3a%2f%2fmeiyi1986.github.io%2fsupervision%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmeiyi1986.github.io%2fsupervision%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmeiyi1986.github.io%2fsupervision%2f&amp;title=Supervision"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmeiyi1986.github.io%2fsupervision%2f&amp;title=Supervision"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Supervision&amp;body=https%3a%2f%2fmeiyi1986.github.io%2fsupervision%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<h3 id="phd">PhD</h3>
+
+<ol>
+<li>Fangfang Zhang (Victoria University of Wellington, 2017): &ldquo;Genetic Programming for Dynamic Flexible Job Shop Scheduling&rdquo; (with Prof Mengjie Zhang)</li>
+<li>Mazhar Anzari Ardeh (Victoria University of Wellington, 2018): &ldquo;Genetic Programming and Transfer Learning for Uncertain Arc Routing&rdquo; (with Prof Mengjie Zhang)</li>
+<li>Mahdi Abdollahi (Victoria University of Wellington, 2017): &ldquo;Evolutionary Text Mining&rdquo; (with Dr Sharon Gao, Prof Jinyan Li (UTS), and Dr Shameek Ghosh)</li>
+<li>Harry He (Victoria University of Wellington, 2017): &ldquo;Optimisation of Urban Layout Design&rdquo; (with Prof Marc Aurel Schnabel)</li>
+<li>Boxiong Tan (Victoria University of Wellington, 2016): &ldquo;Evolutionary Web Service Provisioning and Scheduling&rdquo; (with Dr Hui Ma)</li>
+<li>John Park (Victoria University of Wellington, 2015): &ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop&rdquo; (with Dr Aaron Chen, Dr Su Nguyen, and Prof Mengjie Zhang)</li>
+<li>Atiya Masood (Victoria University of Wellington, 2015): &ldquo;Many-Objective Job Shop Scheduling&rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang)</li>
+<li>Deepak Karunakaran (Victoria University of Wellington, 2015): &ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop Scheduling&rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang)</li>
+<li><em>Alexandre Sawczuk Da Silva (Victoria University of Wellington, graduated in 2019): &ldquo;Evolutionary QoS-based Web Service Composition&rdquo; (with Dr Hui Ma, and Prof Mengjie Zhang)</em></li>
+<li><em>Md. Jakirul Islam (RMIT University, Australia, graduated in 2018): &ldquo;Structural Topological Optimization Using Evolutionary Techniques&rdquo; (with Prof Xiaodong Li)</em></li>
+<li><em>Yuxin Liu (Southwestern University, China, graduated in 2018): &ldquo;Hyper-heuristics for Arc Routing&rdquo; (with Prof Mengjie Zhang, and Prof Zili Zhang)</em></li>
+<li><em>Jing Xie (RMIT University, Australia, graduated in 2017): &ldquo;Genetic Programming for Warehouse Layout Optimization&rdquo; (with Dr Andy Song, and Prof Xiaodong Li)</em></li>
+</ol>
+
+<h3 id="masters">Masters</h3>
+
+<ol>
+<li>Shaolin Wang (Victoria University of Wellington, 2018): &ldquo;Evolutionary Computation for Uncertain Arc Routing&rdquo; (with Prof Mengjie Zhang)</li>
+<li><em>Boxiong Tan (Victoria University of Wellington, graduated in 2016): &ldquo;Evolutionary Computation for Service Location Allocation&rdquo; (with Dr Hui Ma)</em></li>
+<li><em>Youhan Xia (University of Melbourne, Australia, graduated in 2017): &ldquo;Ant Colony System for Itinerary Planning with Restaurants&rdquo; (with Dr Jeffrey Chan)</em></li>
+<li><em>Haobo Fu (University of Science and Technology of China, graduated in 2010): &ldquo;Meta-heuristics for Capacitated Arc Routing Problems&rdquo; (with Prof Ke Tang)</em></li>
+</ol>
+
+<h3 id="honours-students">Honours Students</h3>
+
+<ul>
+<li>Samuel Meredith (Victoria University of Wellington, 2018): &ldquo;Genetic Programming for Dynamic Orienteering Problem&rdquo;</li>
+<li>Michael Sirvid (Victoria University of Wellington, 2018): &ldquo;Genetic Programming for Online Bin Packing&rdquo;</li>
+<li>Valerie Chan (Victoria University of Wellington, 2017): &ldquo;Evolutionary Computation for Dynamic Orienteering Problem&rdquo;</li>
+<li>Daniel Yska (Victoria University of Wellington, 2017): &ldquo;Genetic Programming Hyper-heuristics for Flexible Job Shop Scheduling&rdquo; (with Prof Mengjie Zhang)</li>
+</ul>
+
+<h3 id="summer-research-students">Summer Research Students</h3>
+
+<ul>
+<li>Jordan MacLachlan (Victoria University of Wellington, 2017): &ldquo;Evolutionary Computation for Dynamic Arc Routing&rdquo;</li>
+<li>Daniel Yska (Victoria University of Wellington, 2017): &ldquo;Genetic Programming Hyper-heuristics for Flexible Job Shop Scheduling&rdquo; (with Prof Mengjie Zhang)</li>
+<li>Josiah Jacobsen-Grocott (Victoria University of Wellington, 2016): &ldquo;Evolutionary Computation for Dynamic Vehicle Routing&rdquo;</li>
+<li>Scott Holdaway (Victoria University of Wellington, 2016): &ldquo;Feature Extraction in NEAT for Atari Games&rdquo; (with Dr Aaron Chen)</li>
+<li>Will Hardwick-Smith (Victoria University of Wellington, 2016): &ldquo;Transfer Learning in NEAT for Atari Games&rdquo; (with Dr Aaron Chen)</li>
+<li>Michael Riley (Victoria University of Wellington, 2015): &ldquo;Evolutionary Computation for Dynamic Job Shop Scheduling&rdquo;</li>
+<li>Longfei Yan (Victoria University of Wellington, 2015): &ldquo;Evolutionary Web Service Composition&rdquo; (with Dr Hui Ma)</li>
+</ul>
+
+    </div>
+
+    
+
+
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.109caa4f51ff39522c6dfc25fb05b6e9.js"></script>
+
+  </body>
+</html>
+

@@ -80,6 +80,63 @@
     </item>
     
     <item>
+      <title>Supervision</title>
+      <link>https://meiyi1986.github.io/supervision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/supervision/</guid>
+      <description>
+
+&lt;h3 id=&#34;phd&#34;&gt;PhD&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Fangfang Zhang (Victoria University of Wellington, 2017): &amp;ldquo;Genetic Programming for Dynamic Flexible Job Shop Scheduling&amp;rdquo; (with Prof Mengjie Zhang)&lt;/li&gt;
+&lt;li&gt;Mazhar Anzari Ardeh (Victoria University of Wellington, 2018): &amp;ldquo;Genetic Programming and Transfer Learning for Uncertain Arc Routing&amp;rdquo; (with Prof Mengjie Zhang)&lt;/li&gt;
+&lt;li&gt;Mahdi Abdollahi (Victoria University of Wellington, 2017): &amp;ldquo;Evolutionary Text Mining&amp;rdquo; (with Dr Sharon Gao, Prof Jinyan Li (UTS), and Dr Shameek Ghosh)&lt;/li&gt;
+&lt;li&gt;Harry He (Victoria University of Wellington, 2017): &amp;ldquo;Optimisation of Urban Layout Design&amp;rdquo; (with Prof Marc Aurel Schnabel)&lt;/li&gt;
+&lt;li&gt;Boxiong Tan (Victoria University of Wellington, 2016): &amp;ldquo;Evolutionary Web Service Provisioning and Scheduling&amp;rdquo; (with Dr Hui Ma)&lt;/li&gt;
+&lt;li&gt;John Park (Victoria University of Wellington, 2015): &amp;ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop&amp;rdquo; (with Dr Aaron Chen, Dr Su Nguyen, and Prof Mengjie Zhang)&lt;/li&gt;
+&lt;li&gt;Atiya Masood (Victoria University of Wellington, 2015): &amp;ldquo;Many-Objective Job Shop Scheduling&amp;rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang)&lt;/li&gt;
+&lt;li&gt;Deepak Karunakaran (Victoria University of Wellington, 2015): &amp;ldquo;Genetic Programming Hyper-heuristics for Dynamic Job Shop Scheduling&amp;rdquo; (with Dr Aaron Chen, and Prof Mengjie Zhang)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alexandre Sawczuk Da Silva (Victoria University of Wellington, graduated in 2019): &amp;ldquo;Evolutionary QoS-based Web Service Composition&amp;rdquo; (with Dr Hui Ma, and Prof Mengjie Zhang)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Md. Jakirul Islam (RMIT University, Australia, graduated in 2018): &amp;ldquo;Structural Topological Optimization Using Evolutionary Techniques&amp;rdquo; (with Prof Xiaodong Li)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Yuxin Liu (Southwestern University, China, graduated in 2018): &amp;ldquo;Hyper-heuristics for Arc Routing&amp;rdquo; (with Prof Mengjie Zhang, and Prof Zili Zhang)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Jing Xie (RMIT University, Australia, graduated in 2017): &amp;ldquo;Genetic Programming for Warehouse Layout Optimization&amp;rdquo; (with Dr Andy Song, and Prof Xiaodong Li)&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;masters&#34;&gt;Masters&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Shaolin Wang (Victoria University of Wellington, 2018): &amp;ldquo;Evolutionary Computation for Uncertain Arc Routing&amp;rdquo; (with Prof Mengjie Zhang)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Boxiong Tan (Victoria University of Wellington, graduated in 2016): &amp;ldquo;Evolutionary Computation for Service Location Allocation&amp;rdquo; (with Dr Hui Ma)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Youhan Xia (University of Melbourne, Australia, graduated in 2017): &amp;ldquo;Ant Colony System for Itinerary Planning with Restaurants&amp;rdquo; (with Dr Jeffrey Chan)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Haobo Fu (University of Science and Technology of China, graduated in 2010): &amp;ldquo;Meta-heuristics for Capacitated Arc Routing Problems&amp;rdquo; (with Prof Ke Tang)&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;honours-students&#34;&gt;Honours Students&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Samuel Meredith (Victoria University of Wellington, 2018): &amp;ldquo;Genetic Programming for Dynamic Orienteering Problem&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Michael Sirvid (Victoria University of Wellington, 2018): &amp;ldquo;Genetic Programming for Online Bin Packing&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Valerie Chan (Victoria University of Wellington, 2017): &amp;ldquo;Evolutionary Computation for Dynamic Orienteering Problem&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Daniel Yska (Victoria University of Wellington, 2017): &amp;ldquo;Genetic Programming Hyper-heuristics for Flexible Job Shop Scheduling&amp;rdquo; (with Prof Mengjie Zhang)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;summer-research-students&#34;&gt;Summer Research Students&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jordan MacLachlan (Victoria University of Wellington, 2017): &amp;ldquo;Evolutionary Computation for Dynamic Arc Routing&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Daniel Yska (Victoria University of Wellington, 2017): &amp;ldquo;Genetic Programming Hyper-heuristics for Flexible Job Shop Scheduling&amp;rdquo; (with Prof Mengjie Zhang)&lt;/li&gt;
+&lt;li&gt;Josiah Jacobsen-Grocott (Victoria University of Wellington, 2016): &amp;ldquo;Evolutionary Computation for Dynamic Vehicle Routing&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Scott Holdaway (Victoria University of Wellington, 2016): &amp;ldquo;Feature Extraction in NEAT for Atari Games&amp;rdquo; (with Dr Aaron Chen)&lt;/li&gt;
+&lt;li&gt;Will Hardwick-Smith (Victoria University of Wellington, 2016): &amp;ldquo;Transfer Learning in NEAT for Atari Games&amp;rdquo; (with Dr Aaron Chen)&lt;/li&gt;
+&lt;li&gt;Michael Riley (Victoria University of Wellington, 2015): &amp;ldquo;Evolutionary Computation for Dynamic Job Shop Scheduling&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Longfei Yan (Victoria University of Wellington, 2015): &amp;ldquo;Evolutionary Web Service Composition&amp;rdquo; (with Dr Hui Ma)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Genetic Programming Hyper-heuristic Approach for Online Resource Allocation in Container-Based Clouds</title>
       <link>https://meiyi1986.github.io/publication/tan-2018-genetic/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
@@ -184,15 +241,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/mei-2018-genetic-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic Programming Hyper-Heuristic for Stochastic Team Orienteering Problem with Time Windows</title>
-      <link>https://meiyi1986.github.io/publication/mei-2018-genetic-2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/mei-2018-genetic-2/</guid>
       <description></description>
     </item>
     

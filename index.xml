@@ -10,6 +10,37 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PC Membership</title>
+      <link>https://meiyi1986.github.io/pclist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/pclist/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;AAAI Conference on Artificial Intelligence 2019&lt;/li&gt;
+&lt;li&gt;ACM Genetic and Evolutionary Computation Conference (GECCO) 2017, 2018, 2019&lt;/li&gt;
+&lt;li&gt;IEEE Congress on Evolutionary Computation (CEC) 2013, 2014, 2016, 2017, 2018, 2019&lt;/li&gt;
+&lt;li&gt;International Conference on Simulated Evolution And Learning (SEAL) 2014, 2017&lt;/li&gt;
+&lt;li&gt;IEEE Symposium Series on Computational Intelligence (SSCI) 2016, 2017&lt;/li&gt;
+&lt;li&gt;Australasian Joint Conference on Artificial Intelligence (Australasian AI) 2015, 2017, 2018&lt;/li&gt;
+&lt;li&gt;International Conference on Swarm Intelligence (ICSI) 2018&lt;/li&gt;
+&lt;li&gt;International Conference on Data Mining and Big Data (DMBD) 2018, 2019&lt;/li&gt;
+&lt;li&gt;International Conference on Swarm Intelligence (ANTS) 2016, 2018&lt;/li&gt;
+&lt;li&gt;International Conference on Advanced Computational Intelligence 2018&lt;/li&gt;
+&lt;li&gt;International ACM Conference on Management of Emergent Digital EcoSystems (MEDES) 2018&lt;/li&gt;
+&lt;li&gt;International Conference on Data Intelligence and Security (ICDIS) 2018, 2019&lt;/li&gt;
+&lt;li&gt;Australasian Conference on Artificial Life and Computational Intelligence (ACALCI) 2016, 2017&lt;/li&gt;
+&lt;li&gt;Asia-Pacific Symposium on Intelligent and Evolutionary Systems (IES) 2016, 2017&lt;/li&gt;
+&lt;li&gt;International Conference on Innovations in Bio-Inspired Computing and Applications (IBICA) 2015, 2016, 2017&lt;/li&gt;
+&lt;li&gt;International Conference on Hybrid Intelligent Systems (HIS) 2016&lt;/li&gt;
+&lt;li&gt;International Conference of Soft Computing and Pattern Recognition (SoCPaR) 2015, 2016&lt;/li&gt;
+&lt;li&gt;International Conference on Intelligent Systems Design and Applications (ISDA) 2016&lt;/li&gt;
+&lt;li&gt;World Congress on Nature and Biologically Inspired Computing (NaBIC) 2016&lt;/li&gt;
+&lt;li&gt;BRICS Congress on Computational Intelligence (BRCIS-CCI) 2015&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Genetic Programming Hyper-heuristic Approach for Online Resource Allocation in Container-Based Clouds</title>
       <link>https://meiyi1986.github.io/publication/tan-2018-genetic/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
@@ -132,15 +163,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/yska-2018-genetic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic programming with multi-tree representation for dynamic flexible job shop scheduling</title>
-      <link>https://meiyi1986.github.io/publication/zhang-2018-genetic/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/zhang-2018-genetic/</guid>
       <description></description>
     </item>
     

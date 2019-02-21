@@ -6,18 +6,42 @@
     <description>Recent content in Yi Mei @ VUW on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +1200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +1300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Automated Heuristic Design</title>
-      <link>https://meiyi1986.github.io/project/auto-heuristic-design/</link>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +1200</pubDate>
+      <link>https://meiyi1986.github.io/project/ahd/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
       
-      <guid>https://meiyi1986.github.io/project/auto-heuristic-design/</guid>
+      <guid>https://meiyi1986.github.io/project/ahd/</guid>
       <description>&lt;p&gt;Designing effective heuristic for solving complex real-world optimisation problems is very hard. It usually takes a lot of time and human effort to design an effective heuristic for a specific problem. However, there are a variety of complex problems and human experts are not enough. In this case, AI can help automatically design effective heuristics purely based on historical data.&lt;/p&gt;
 
 &lt;p&gt;In this research, we use Genetic Programming Hyper-Heuristic (GPHH) to automatically evolve heuristics. We have developed a number of GPHH algorithms that have shown success in dynamic job shop scheduling, vehicle routing, and tourist trip recommendation problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Scheduling and Combinatorial Optimisation</title>
+      <link>https://meiyi1986.github.io/project/esco/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/project/esco/</guid>
+      <description>&lt;p&gt;This research focuses on solving complicated real-world optimisation problems, which are typically NP-hard. Examples include job shop scheduling, vehicle routing, research allocation and scheduling in cloud, and web service composition. It is normally hardly possible to solve these problems to optimality. We have developed effective evolutionary algorithms and meta-heuristics to search for near-optimal solutions in a short time budget.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large Scale Global Optimisation</title>
+      <link>https://meiyi1986.github.io/project/lsgo/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/project/lsgo/</guid>
+      <description>&lt;p&gt;Most real-world optimisation problems are very large. For example, in a vehicle routing problem, there can be thousands of customers to be served. In addition, these problems have many local optima, and it is easy to be trapped into poor local optima.&lt;/p&gt;
+
+&lt;p&gt;Large scale global optimisation is a very challenging problem that seeks for the &amp;ldquo;global optimum&amp;rdquo; in a very large search space. Although evolutionary computation algorithms have shown premise in solving the hard optimisation problems, their performance is usually restricted into small or medium problem sizes. When the problem size grows large, the performance of the algorithms can deteriorate rapidly (&amp;ldquo;curse of dimensionality&amp;rdquo;).&lt;/p&gt;
+
+&lt;p&gt;To address this challenge, we aim to develop novel divide-and-conquer approaches to reduce the search space without excluding the promising solutions. We have achieved success on the benchmark functions and real-world applications such as the arc routing problem, travelling thief problem, and warehouse layout design.&lt;/p&gt;
 </description>
     </item>
     
@@ -336,24 +360,6 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/abdollahi-2018-uncovering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sampling Heuristics for Multi-objective Dynamic Job Shop Scheduling Using Island Based Parallel Genetic Programming</title>
-      <link>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +1200</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feature Construction in Genetic Programming Hyper-Heuristic for Dynamic Flexible Job Shop Scheduling</title>
-      <link>https://meiyi1986.github.io/publication/yska-2018-feature/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +1200</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/yska-2018-feature/</guid>
       <description></description>
     </item>
     

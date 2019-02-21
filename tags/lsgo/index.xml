@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSGO on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/tags/lsgo/</link>
+    <description>Recent content in LSGO on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/tags/lsgo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Large Scale Global Optimisation</title>
+      <link>https://meiyi1986.github.io/project/lsgo/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/project/lsgo/</guid>
+      <description>Most real-world optimisation problems are very large. For example, in a vehicle routing problem, there can be thousands of customers to be served. In addition, these problems have many local optima, and it is easy to be trapped into poor local optima.
+Large scale global optimisation is a very challenging problem that seeks for the &amp;ldquo;global optimum&amp;rdquo; in a very large search space. Although evolutionary computation algorithms have shown premise in solving the hard optimisation problems, their performance is usually restricted into small or medium problem sizes.</description>
+    </item>
+    
+  </channel>
+</rss>

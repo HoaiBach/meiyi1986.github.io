@@ -4,8 +4,24 @@
     
     <url>
     
-      <loc>https://meiyi1986.github.io/project/auto-heuristic-design/</loc>
-      <lastmod>2017-07-20T00:00:00+12:00</lastmod>
+      <loc>https://meiyi1986.github.io/project/ahd/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/project/esco/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/project/lsgo/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
     </url>
     
   
@@ -680,6 +696,15 @@
     
     <url>
     
+      <loc>https://meiyi1986.github.io/tags/ahd/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://meiyi1986.github.io/authors/aaron-chen/</loc>
       <lastmod>2016-06-01T00:00:00+12:00</lastmod>
       <priority>0</priority>
@@ -742,15 +767,6 @@
     
     <url>
     
-      <loc>https://meiyi1986.github.io/tags/automated-heuristic-design/</loc>
-      <lastmod>2017-07-20T00:00:00+12:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://meiyi1986.github.io/authors/benjamin-w-wah/</loc>
       <lastmod>2011-06-01T00:00:00+12:00</lastmod>
       <priority>0</priority>
@@ -797,6 +813,15 @@
     
       <loc>https://meiyi1986.github.io/authors/deepak-karunakaran/</loc>
       <lastmod>2018-09-01T00:00:00+12:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/tags/esco/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -948,6 +973,15 @@
     
     <url>
     
+      <loc>https://meiyi1986.github.io/tags/lsgo/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://meiyi1986.github.io/authors/leandro-l-minku/</loc>
       <lastmod>2016-10-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
@@ -1064,7 +1098,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/project/</loc>
-      <lastmod>2017-07-20T00:00:00+12:00</lastmod>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1142,7 +1176,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/tags/</loc>
-      <lastmod>2017-07-20T00:00:00+12:00</lastmod>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1205,7 +1239,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/</loc>
-      <lastmod>2017-07-20T00:00:00+12:00</lastmod>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     

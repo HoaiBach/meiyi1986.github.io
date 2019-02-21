@@ -176,12 +176,12 @@
     </item>
     
     <item>
-      <title>Supervision</title>
+      <title></title>
       <link>https://meiyi1986.github.io/home/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://meiyi1986.github.io/home/resources/</guid>
-      <description> Code  My Git repository: genetic programming hyper-heuristics for evolving dispatching rules for job shop scheduling. My Git repository: meta-heuristic and hyper-heuristic algorithms for uncertain arc routing problem.  Interesting links  An interesting Science paper Distilling Free-Form Natural Laws from Experimental Data, which uses genetic programming to automatically discover natural laws (symbolic regression). Hyper-heuristic bibliography: https://mustafamisir.github.io/hh.html The HyFlex hyper-heuristic framework: http://www.asap.cs.nott.ac.uk/external/chesc2011/hyflex_description.html The EvoHyp hyper-heuristic framwork: http://titancs.ukzn.ac.za/EvoHyp.aspx  </description>
+      <description>Code  My Git repository: genetic programming hyper-heuristics for evolving dispatching rules for job shop scheduling. My Git repository: meta-heuristic and hyper-heuristic algorithms for uncertain arc routing problem. My Git repository: genetic programming hyper-heuristic algorithms for stochastic orienteering problem. The ECJ Java library: https://cs.gmu.edu/~eclab/projects/ecj/. Highly recommeded if using GP. The HyFlex hyper-heuristic framework: http://www.asap.cs.nott.ac.uk/external/chesc2011/hyflex_description.html The EvoHyp hyper-heuristic framwork: http://titancs.ukzn.ac.za/EvoHyp.aspx An automatic model fitting software: Eureqa. It has an academic 30-day trial version.</description>
     </item>
     
     <item>

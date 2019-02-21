@@ -662,15 +662,6 @@
     
     <url>
     
-      <loc>https://meiyi1986.github.io/tags/</loc>
-      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://meiyi1986.github.io/author/admin/</loc>
     </url>
     
@@ -1158,7 +1149,6 @@
     <url>
     
       <loc>https://meiyi1986.github.io/tags/</loc>
-      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1258,6 +1248,51 @@
     
       <loc>https://meiyi1986.github.io/authors/zili-zhang/</loc>
       <lastmod>2017-07-01T00:00:00+12:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/tags/cooperative-coevolution/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/tags/evolutionary-learning/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/tags/hyper-heuristic/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/tags/meta-heuristic/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/tags/optimisation/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     

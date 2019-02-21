@@ -6,8 +6,20 @@
     <description>Recent content in Yi Mei @ VUW on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +1200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Automated Heuristic Design</title>
+      <link>https://meiyi1986.github.io/project/auto-heuristic-design/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/project/auto-heuristic-design/</guid>
+      <description>&lt;p&gt;Designing effective heuristic for solving complex real-world optimisation problems is very hard. It usually takes a lot of time and human effort to design an effective heuristic for a specific problem. However, there are a variety of complex problems and human experts are not enough. In this case, AI can help automatically design effective heuristics purely based on historical data.&lt;/p&gt;
+
+&lt;p&gt;In this research, we use Genetic Programming Hyper-Heuristic (GPHH) to automatically evolve heuristics. We have developed a number of GPHH algorithms that have shown success in dynamic job shop scheduling, vehicle routing, and tourist trip recommendation problems.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Evolutionary Computation for Combinatorial Optimisation (ECCO) Group</title>
@@ -342,15 +354,6 @@
       <pubDate>Sun, 01 Jul 2018 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/yska-2018-feature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic Programming Hyper-Heuristic for Multi-Vehicle Uncertain Capacitated Arc Routing Problem</title>
-      <link>https://meiyi1986.github.io/publication/mei-2018-genetic-1/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +1200</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/mei-2018-genetic-1/</guid>
       <description></description>
     </item>
     

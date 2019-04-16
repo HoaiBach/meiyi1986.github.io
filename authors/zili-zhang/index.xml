@@ -6,10 +6,19 @@
     <description>Recent content in Zili Zhang on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +1200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/zili-zhang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Predictive-Reactive Approach with Genetic Programming and Cooperative Co-evolution for Uncertain Capacitated Arc Routing Problem</title>
+      <link>https://meiyi1986.github.io/publication/liu-2019-predictive/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/liu-2019-predictive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated heuristic design using genetic programming hyper-heuristic for uncertain capacitated arc routing problem</title>

@@ -6,10 +6,28 @@
     <description>Recent content in 2 on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +1200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Survey on Evolutionary Machine Learning</title>
+      <link>https://meiyi1986.github.io/publication/al-2019-survey/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/al-2019-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Predictive-Reactive Approach with Genetic Programming and Cooperative Co-evolution for Uncertain Capacitated Arc Routing Problem</title>
+      <link>https://meiyi1986.github.io/publication/liu-2019-predictive/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/liu-2019-predictive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Hybrid Genetic Programming Algorithm for Automated Design of Dispatching Rules</title>

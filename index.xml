@@ -332,6 +332,24 @@
     </item>
     
     <item>
+      <title>A Survey on Evolutionary Machine Learning</title>
+      <link>https://meiyi1986.github.io/publication/al-2019-survey/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/al-2019-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Predictive-Reactive Approach with Genetic Programming and Cooperative Co-evolution for Uncertain Capacitated Arc Routing Problem</title>
+      <link>https://meiyi1986.github.io/publication/liu-2019-predictive/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/liu-2019-predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Genetic Programming Hyper-heuristic Approach for Online Resource Allocation in Container-Based Clouds</title>
       <link>https://meiyi1986.github.io/publication/tan-2018-genetic/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
@@ -364,24 +382,6 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2018-evolutionary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic programming with multi-tree representation for dynamic flexible job shop scheduling</title>
-      <link>https://meiyi1986.github.io/publication/zhang-2018-genetic/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/zhang-2018-genetic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surrogate-assisted genetic programming for dynamic flexible job shop scheduling</title>
-      <link>https://meiyi1986.github.io/publication/zhang-2018-surrogate/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/zhang-2018-surrogate/</guid>
       <description></description>
     </item>
     

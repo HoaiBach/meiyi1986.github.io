@@ -39,60 +39,6 @@
     </item>
     
     <item>
-      <title>Adaptive Reference Point Generation for Many-Objective Optimization Using NSGA-III</title>
-      <link>https://meiyi1986.github.io/publication/masood-2018-adaptive/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/masood-2018-adaptive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Improved Genetic Programming Hyper-Heuristic for the Uncertain Capacitated Arc Routing Problem</title>
-      <link>https://meiyi1986.github.io/publication/maclachlan-2018-improved/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/maclachlan-2018-improved/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolutionary Multitask Optimisation for Dynamic Job Shop Scheduling Using Niched Genetic Programming</title>
-      <link>https://meiyi1986.github.io/publication/park-2018-evolutionary/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/park-2018-evolutionary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic programming with multi-tree representation for dynamic flexible job shop scheduling</title>
-      <link>https://meiyi1986.github.io/publication/zhang-2018-genetic/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/zhang-2018-genetic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surrogate-assisted genetic programming for dynamic flexible job shop scheduling</title>
-      <link>https://meiyi1986.github.io/publication/zhang-2018-surrogate/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/zhang-2018-surrogate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sampling Heuristics for Multi-objective Dynamic Job Shop Scheduling Using Island Based Parallel Genetic Programming</title>
-      <link>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Feature Construction in Genetic Programming Hyper-Heuristic for Dynamic Flexible Job Shop Scheduling</title>
       <link>https://meiyi1986.github.io/publication/yska-2018-feature/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
@@ -183,11 +129,65 @@
     </item>
     
     <item>
+      <title>Adaptive Reference Point Generation for Many-Objective Optimization Using NSGA-III</title>
+      <link>https://meiyi1986.github.io/publication/masood-2018-adaptive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/masood-2018-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved Genetic Programming Hyper-Heuristic for the Uncertain Capacitated Arc Routing Problem</title>
+      <link>https://meiyi1986.github.io/publication/maclachlan-2018-improved/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/maclachlan-2018-improved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolutionary Multi-Objective Optimization for Web Service Location Allocation Problem</title>
       <link>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Multitask Optimisation for Dynamic Job Shop Scheduling Using Niched Genetic Programming</title>
+      <link>https://meiyi1986.github.io/publication/park-2018-evolutionary/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/park-2018-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic programming with multi-tree representation for dynamic flexible job shop scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2018-genetic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2018-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling Heuristics for Multi-objective Dynamic Job Shop Scheduling Using Island Based Parallel Genetic Programming</title>
+      <link>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate-assisted genetic programming for dynamic flexible job shop scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2018-surrogate/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2018-surrogate/</guid>
       <description></description>
     </item>
     

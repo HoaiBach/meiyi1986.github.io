@@ -62,70 +62,6 @@
     
     <url>
     
-      <loc>https://meiyi1986.github.io/publication/tan-2018-genetic/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://meiyi1986.github.io/publication/masood-2018-adaptive/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://meiyi1986.github.io/publication/maclachlan-2018-improved/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://meiyi1986.github.io/publication/park-2018-evolutionary/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://meiyi1986.github.io/publication/zhang-2018-genetic/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://meiyi1986.github.io/publication/zhang-2018-surrogate/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://meiyi1986.github.io/publication/abdollahi-2018-uncovering/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</loc>
-      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://meiyi1986.github.io/publication/yska-2018-feature/</loc>
       <lastmod>2018-07-01T00:00:00+02:00</lastmod>
     </url>
@@ -206,6 +142,14 @@
     
     <url>
     
+      <loc>https://meiyi1986.github.io/publication/tan-2018-genetic/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://meiyi1986.github.io/publication/xie-2018-bi/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
     </url>
@@ -214,7 +158,63 @@
     
     <url>
     
+      <loc>https://meiyi1986.github.io/publication/masood-2018-adaptive/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/maclachlan-2018-improved/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/park-2018-evolutionary/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/zhang-2018-genetic/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/zhang-2018-surrogate/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/abdollahi-2018-uncovering/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -766,7 +766,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/atiya-masood/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-04-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -819,7 +819,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/boxiong-tan/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -845,7 +845,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/deepak-karunakaran/</loc>
-      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -890,7 +890,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/gang-chen/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-04-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -917,7 +917,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/hui-ma/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -944,7 +944,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/jinyan-li/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -953,7 +953,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/john-park/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-04-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -962,7 +962,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/jordan-maclachlan/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -980,7 +980,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/juergen-branke/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1025,7 +1025,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/mahdi-abdollahi/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1173,7 +1173,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/shameek-ghosh/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1182,7 +1182,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/su-nguyen/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1226,7 +1226,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/xiaoying-gao/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

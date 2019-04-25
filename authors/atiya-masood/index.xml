@@ -6,19 +6,10 @@
     <description>Recent content in Atiya Masood on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/atiya-masood/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Adaptive Reference Point Generation for Many-Objective Optimization Using NSGA-III</title>
-      <link>https://meiyi1986.github.io/publication/masood-2018-adaptive/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/masood-2018-adaptive/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Reference Point Adaption Method for Genetic Programming Hyper-Heuristic in Many-Objective Job Shop Scheduling</title>
@@ -26,6 +17,15 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/masood-2018-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Reference Point Generation for Many-Objective Optimization Using NSGA-III</title>
+      <link>https://meiyi1986.github.io/publication/masood-2018-adaptive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/masood-2018-adaptive/</guid>
       <description></description>
     </item>
     

@@ -6,19 +6,10 @@
     <description>Recent content in John Park on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/john-park/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Evolutionary Multitask Optimisation for Dynamic Job Shop Scheduling Using Niched Genetic Programming</title>
-      <link>https://meiyi1986.github.io/publication/park-2018-evolutionary/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/park-2018-evolutionary/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Investigating a Machine Breakdown Genetic Programming Approach for Dynamic Job Shop Scheduling</title>
@@ -35,6 +26,15 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2018-investigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Multitask Optimisation for Dynamic Job Shop Scheduling Using Niched Genetic Programming</title>
+      <link>https://meiyi1986.github.io/publication/park-2018-evolutionary/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/park-2018-evolutionary/</guid>
       <description></description>
     </item>
     

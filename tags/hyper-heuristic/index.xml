@@ -6,7 +6,7 @@
     <description>Recent content in hyper-heuristic on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/tags/hyper-heuristic/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Automated Heuristic Design</title>
       <link>https://meiyi1986.github.io/project/ahd/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://meiyi1986.github.io/project/ahd/</guid>
       <description>Designing effective heuristic for solving complex real-world optimisation problems is very hard. It usually takes a lot of time and human effort to design an effective heuristic for a specific problem. However, there are a variety of complex problems and human experts are not enough. In this case, AI can help automatically design effective heuristics purely based on historical data.

@@ -6,7 +6,7 @@
     <description>Recent content in Hui Ma on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/hui-ma/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>A Genetic Programming Hyper-heuristic Approach for Online Resource Allocation in Container-Based Clouds</title>
       <link>https://meiyi1986.github.io/publication/tan-2018-genetic/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/tan-2018-genetic/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Evolutionary computation for automatic Web service composition: an indirect representation approach</title>
       <link>https://meiyi1986.github.io/publication/da-2018-evolutionary/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +1200</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/da-2018-evolutionary/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>A Hybrid Memetic Approach for Fully Automated Multi-Objective Web Service Composition</title>
       <link>https://meiyi1986.github.io/publication/da-2018-hybrid/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +1300</pubDate>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/da-2018-hybrid/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Evolutionary Multi-Objective Optimization for Web Service Location Allocation Problem</title>
       <link>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1300</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/tan-2018-evolutionary/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Fragment-based genetic programming for fully automated multi-objective web service composition</title>
       <link>https://meiyi1986.github.io/publication/da-2017-fragment/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +1200</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/da-2017-fragment/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>A NSGA-II-based approach for service resource allocation in Cloud</title>
       <link>https://meiyi1986.github.io/publication/tan-2017-nsga/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +1200</pubDate>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/tan-2017-nsga/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>A memetic algorithm-based indirect approach to web service composition</title>
       <link>https://meiyi1986.github.io/publication/da-2016-memetic/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +1200</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/da-2016-memetic/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Evolutionary scheduling and combinatorial optimisation: Applications, challenges, and future directions</title>
       <link>https://meiyi1986.github.io/publication/nguyen-2016-evolutionary/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +1200</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/nguyen-2016-evolutionary/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Evolutionary web service composition: A graph-based memetic algorithm</title>
       <link>https://meiyi1986.github.io/publication/yan-2016-evolutionary/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +1200</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/yan-2016-evolutionary/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Particle swarm optimisation with sequence-like indirect representation for web service composition</title>
       <link>https://meiyi1986.github.io/publication/da-2016-particle/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +1300</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/da-2016-particle/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Particle swarm optimization for multi-objective web service location allocation</title>
       <link>https://meiyi1986.github.io/publication/tan-2016-particle/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +1300</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/tan-2016-particle/</guid>
       <description></description>

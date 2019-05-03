@@ -6,7 +6,7 @@
     <description>Recent content in Gang Chen on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/gang-chen/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Adaptive Reference Point Generation for Many-Objective Optimization Using NSGA-III</title>
       <link>https://meiyi1986.github.io/publication/masood-2018-adaptive/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/masood-2018-adaptive/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Evolutionary Multitask Optimisation for Dynamic Job Shop Scheduling Using Niched Genetic Programming</title>
       <link>https://meiyi1986.github.io/publication/park-2018-evolutionary/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2018-evolutionary/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Sampling Heuristics for Multi-objective Dynamic Job Shop Scheduling Using Island Based Parallel Genetic Programming</title>
       <link>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/karunakaran-2018-sampling/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Investigating a Machine Breakdown Genetic Programming Approach for Dynamic Job Shop Scheduling</title>
       <link>https://meiyi1986.github.io/publication/park-2018-investigating/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2018-investigating/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Reference Point Adaption Method for Genetic Programming Hyper-Heuristic in Many-Objective Job Shop Scheduling</title>
       <link>https://meiyi1986.github.io/publication/masood-2018-reference/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/masood-2018-reference/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>An investigation of ensemble combination schemes for genetic programming based hyper-heuristic approaches to dynamic job shop scheduling</title>
       <link>https://meiyi1986.github.io/publication/park-2018-investigation/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2018-investigation/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Effective Policy Gradient Search for Reinforcement Learning Through NEAT Based Feature Extraction</title>
       <link>https://meiyi1986.github.io/publication/peng-2017-effective/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/peng-2017-effective/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Automated state feature learning for actor-critic reinforcement learning through NEAT</title>
       <link>https://meiyi1986.github.io/publication/peng-2017-automated/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/peng-2017-automated/</guid>
       <description></description>
@@ -86,7 +86,7 @@
     <item>
       <title>Evolving Transferable Artificial Neural Networks for Gameplay Tasks via NEAT with Phased Searching</title>
       <link>https://meiyi1986.github.io/publication/hardwick-2017-evolving/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/hardwick-2017-evolving/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>Toward evolving dispatching rules for dynamic job shop scheduling under uncertainty</title>
       <link>https://meiyi1986.github.io/publication/karunakaran-2017-toward/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/karunakaran-2017-toward/</guid>
       <description></description>
@@ -104,7 +104,7 @@
     <item>
       <title>Evolving dispatching rules for dynamic Job shop scheduling with uncertain processing times</title>
       <link>https://meiyi1986.github.io/publication/karunakaran-2017-evolving/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/karunakaran-2017-evolving/</guid>
       <description></description>
@@ -113,7 +113,7 @@
     <item>
       <title>Evolving heuristics for Dynamic Vehicle Routing with Time Windows using genetic programming</title>
       <link>https://meiyi1986.github.io/publication/jacobsen-2017-evolving/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/jacobsen-2017-evolving/</guid>
       <description></description>
@@ -122,7 +122,7 @@
     <item>
       <title>A PSO-based reference point adaption method for genetic programming hyper-heuristic in many-objective job shop scheduling</title>
       <link>https://meiyi1986.github.io/publication/masood-2017-pso/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/masood-2017-pso/</guid>
       <description></description>
@@ -131,7 +131,7 @@
     <item>
       <title>Dynamic job shop scheduling under uncertainty using genetic programming</title>
       <link>https://meiyi1986.github.io/publication/karunakaran-2017-dynamic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/karunakaran-2017-dynamic/</guid>
       <description></description>
@@ -140,7 +140,7 @@
     <item>
       <title>Investigating the generality of genetic programming based hyper-heuristic approach to dynamic job shop scheduling with machine breakdown</title>
       <link>https://meiyi1986.github.io/publication/park-2017-investigating/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2017-investigating/</guid>
       <description></description>
@@ -149,7 +149,7 @@
     <item>
       <title>Niching genetic programming based hyper-heuristic approach to dynamic job shop scheduling: an investigation into distance metrics</title>
       <link>https://meiyi1986.github.io/publication/park-2016-niching/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2016-niching/</guid>
       <description></description>
@@ -158,7 +158,7 @@
     <item>
       <title>Many-objective genetic programming for job-shop scheduling</title>
       <link>https://meiyi1986.github.io/publication/masood-2016-many/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/masood-2016-many/</guid>
       <description></description>
@@ -167,7 +167,7 @@
     <item>
       <title>Genetic programming based hyper-heuristics for dynamic job shop scheduling: cooperative coevolutionary approaches</title>
       <link>https://meiyi1986.github.io/publication/park-2016-genetic/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2016-genetic/</guid>
       <description></description>

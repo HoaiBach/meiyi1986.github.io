@@ -6,13 +6,13 @@
     <description>Recent content in Yi Mei @ VUW on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +1300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Automated Heuristic Design</title>
       <link>https://meiyi1986.github.io/project/ahd/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/project/ahd/</guid>
       <description>&lt;p&gt;Designing effective heuristic for solving complex real-world optimisation problems is very hard. It usually takes a lot of time and human effort to design an effective heuristic for a specific problem. However, there are a variety of complex problems and human experts are not enough. In this case, AI can help automatically design effective heuristics purely based on historical data.&lt;/p&gt;
@@ -24,7 +24,7 @@
     <item>
       <title>Evolutionary Scheduling and Combinatorial Optimisation</title>
       <link>https://meiyi1986.github.io/project/esco/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/project/esco/</guid>
       <description>&lt;p&gt;This research focuses on solving complicated real-world optimisation problems, which are typically NP-hard. Examples include job shop scheduling, vehicle routing, research allocation and scheduling in cloud, and web service composition. It is normally hardly possible to solve these problems to optimality. We have developed effective evolutionary algorithms and meta-heuristics to search for near-optimal solutions in a short time budget.&lt;/p&gt;
@@ -34,7 +34,7 @@
     <item>
       <title>Large Scale Global Optimisation</title>
       <link>https://meiyi1986.github.io/project/lsgo/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/project/lsgo/</guid>
       <description>&lt;p&gt;Most real-world optimisation problems are very large. For example, in a vehicle routing problem, there can be thousands of customers to be served. In addition, these problems have many local optima, and it is easy to be trapped into poor local optima.&lt;/p&gt;
@@ -129,6 +129,7 @@
 &lt;li&gt;&lt;a href=&#34;http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036&#34;&gt;IEEE Transactions on Cybernetics&lt;/a&gt; &lt;strong&gt;(ARC/CORE Tier A)&lt;/strong&gt; (&lt;i&gt;Outstanding Reviewer 2018&lt;/i&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/european-journal-of-operational-research/&#34;&gt;European Journal of Operational Research&lt;/a&gt; &lt;strong&gt;(ARC/CORE Tier A)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.springer.com/mathematics/applications/journal/10732&#34;&gt;Journal of Heuristics&lt;/a&gt; &lt;strong&gt;(ARC/CORE Tier A)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.journals.elsevier.com/waste-management&#34;&gt;Waste Management&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies/&#34;&gt;Transportation Research Part C&lt;/a&gt; &lt;strong&gt;(ARC Tier A)&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/transportation-research-part-d-transport-and-environment/&#34;&gt;Transportation Research Part D&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386&#34;&gt;IEEE Transactions on Services Computing&lt;/a&gt;&lt;/li&gt;
@@ -325,7 +326,7 @@
     <item>
       <title>A New Representation in Genetic Programming for Evolving Dispatching Rules for Dynamic Flexible Job Shop Scheduling</title>
       <link>https://meiyi1986.github.io/publication/zhang-2019-new/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/zhang-2019-new/</guid>
       <description></description>
@@ -334,7 +335,7 @@
     <item>
       <title>A Predictive-Reactive Approach with Genetic Programming and Cooperative Co-evolution for Uncertain Capacitated Arc Routing Problem</title>
       <link>https://meiyi1986.github.io/publication/liu-2019-predictive/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/liu-2019-predictive/</guid>
       <description></description>
@@ -343,7 +344,7 @@
     <item>
       <title>A Survey on Evolutionary Machine Learning</title>
       <link>https://meiyi1986.github.io/publication/al-2019-survey/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/al-2019-survey/</guid>
       <description></description>
@@ -352,7 +353,7 @@
     <item>
       <title>A Genetic Programming Hyper-heuristic Approach for Online Resource Allocation in Container-Based Clouds</title>
       <link>https://meiyi1986.github.io/publication/tan-2018-genetic/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/tan-2018-genetic/</guid>
       <description></description>
@@ -361,7 +362,7 @@
     <item>
       <title>Adaptive Reference Point Generation for Many-Objective Optimization Using NSGA-III</title>
       <link>https://meiyi1986.github.io/publication/masood-2018-adaptive/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/masood-2018-adaptive/</guid>
       <description></description>
@@ -370,7 +371,7 @@
     <item>
       <title>Evolutionary Multitask Optimisation for Dynamic Job Shop Scheduling Using Niched Genetic Programming</title>
       <link>https://meiyi1986.github.io/publication/park-2018-evolutionary/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/park-2018-evolutionary/</guid>
       <description></description>
@@ -379,7 +380,7 @@
     <item>
       <title>Genetic programming with multi-tree representation for dynamic flexible job shop scheduling</title>
       <link>https://meiyi1986.github.io/publication/zhang-2018-genetic/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/zhang-2018-genetic/</guid>
       <description></description>

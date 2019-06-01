@@ -6,10 +6,19 @@
     <description>Recent content in Gang Chen on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +1200</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/gang-chen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Active Sampling for Dynamic Job Shop Scheduling using Genetic Programming</title>
+      <link>https://meiyi1986.github.io/publication/karunakaran-2019-active/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/karunakaran-2019-active/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive Reference Point Generation for Many-Objective Optimization Using NSGA-III</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mazhar Ansari Ardeh on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/mazhar-ansari-ardeh/</link>
+    <description>Recent content in Mazhar Ansari Ardeh on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +1200</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/mazhar-ansari-ardeh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Transfer Learning in Genetic Programming Hyper-heuristic for Solving Uncertain Capacitated Arc Routing Problem</title>
+      <link>https://meiyi1986.github.io/publication/ardeh-2019-transfer/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/ardeh-2019-transfer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

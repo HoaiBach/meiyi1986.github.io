@@ -6,10 +6,19 @@
     <description>Recent content in Fangfang Zhang on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +1200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +1200</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/fangfang-zhang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Two-Stage Genetic Programming Hyper-heuristic Approach with Feature Selection for Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2019-two/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2019-two/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can Stochastic Dispatching Rules Evolved by Genetic Programming Hyper-heuristics Help in Dynamic Flexible Job Shop Scheduling?</title>

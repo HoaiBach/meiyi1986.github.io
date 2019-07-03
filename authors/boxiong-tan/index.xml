@@ -6,10 +6,19 @@
     <description>Recent content in Boxiong Tan on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +1200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +1200</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/boxiong-tan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Novel Genetic Algorithm with Dual Chromosome Representation for Resource Allocation in Container-based Clouds</title>
+      <link>https://meiyi1986.github.io/publication/tan-2019-novel/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/tan-2019-novel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Hybrid Genetic Programming Hyper-Heuristic Approach for Online Two-level Resource Allocation in Container-based Clouds</title>

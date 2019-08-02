@@ -136,6 +136,7 @@
 &lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/transportation-research-part-d-transport-and-environment/&#34;&gt;Transportation Research Part D&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.journals.elsevier.com/waste-management&#34;&gt;Waste Management&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386&#34;&gt;IEEE Transactions on Services Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654&#34;&gt;IEEE/CAA Journal of Automatica Sinica&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/information-sciences/&#34;&gt;Information Sciences&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/applied-soft-computing/&#34;&gt;Applied Soft Computing&lt;/a&gt; (&lt;i&gt;Outstanding Reviewer 2015, 2017&lt;/i&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing&#34;&gt;Robotics and Computer-Integrated Manufacturing&lt;/a&gt;&lt;/li&gt;
@@ -143,7 +144,6 @@
 &lt;li&gt;&lt;a href=&#34;http://www.springer.com/computer/ai/journal/10710&#34;&gt;Genetic Programming and Evolvable Machines&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence/&#34;&gt;Engineering Applications of Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.omicsgroup.org/journals/information-technology-software-engineering.php&#34;&gt;Journal of Information Technology &amp;amp; Software Engineering&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654&#34;&gt;IEEE/CAA Journal of Automatica Sinica&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://link.springer.com/journal/10951&#34;&gt;Journal of Scheduling&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.mdpi.com/journal/applsci&#34;&gt;Applied Sciences&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.springer.com/engineering/computational+intelligence+and+complexity/journal/500&#34;&gt;Soft Computing&lt;/a&gt;&lt;/li&gt;
@@ -266,6 +266,8 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
       
       <guid>https://meiyi1986.github.io/ecco-talks/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;2019/08/13,&lt;/li&gt;
+&lt;li&gt;2019/08/06, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/Kirita-RoseEscott&#34;&gt;Kirita-Rose Escott&lt;/a&gt;&lt;/strong&gt;, discussions on research directions.&lt;/li&gt;
 &lt;li&gt;2019/07/30, &lt;strong&gt;Whole Group&lt;/strong&gt;, discussions about lexicase selection in GP.&lt;/li&gt;
 &lt;li&gt;2019/07/23, &lt;strong&gt;Whole Group&lt;/strong&gt;, share experience in GECCO2019.&lt;/li&gt;
 &lt;li&gt;2019/07/16, Shaolin Wang, practice on GECCO presentation again.&lt;/li&gt;
@@ -348,6 +350,24 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
     </item>
     
     <item>
+      <title>A Novel Genetic Programming Algorithm with Knowledge Transfer for Uncertain Capacitated Arc Routing</title>
+      <link>https://meiyi1986.github.io/publication/ardeh-2019-novel/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/ardeh-2019-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stratifying risk of coronary artery disease using discriminative knowledge-guided medical concept pairings from clinical notes</title>
+      <link>https://meiyi1986.github.io/publication/abdollahi-2019-stratifying/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/abdollahi-2019-stratifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Two-Stage Genetic Programming Hyper-heuristic Approach with Feature Selection for Dynamic Flexible Job Shop Scheduling</title>
       <link>https://meiyi1986.github.io/publication/zhang-2019-two/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +1200</pubDate>
@@ -389,24 +409,6 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
       <pubDate>Sat, 01 Jun 2019 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/tan-2019-hybrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active Sampling for Dynamic Job Shop Scheduling using Genetic Programming</title>
-      <link>https://meiyi1986.github.io/publication/karunakaran-2019-active/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +1200</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/karunakaran-2019-active/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Ontology-based Two-Stage Approach to Medical Text Classification with Feature Selection by Particle Swarm Optimisation</title>
-      <link>https://meiyi1986.github.io/publication/abdollahi-2019-ontology/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +1200</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/abdollahi-2019-ontology/</guid>
       <description></description>
     </item>
     

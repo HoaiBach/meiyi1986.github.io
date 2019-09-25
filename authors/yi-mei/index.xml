@@ -6,10 +6,19 @@
     <description>Recent content in Yi Mei on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +1200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +1200</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/yi-mei/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Genetic Programming with Pareto Local Search for Many-Objective Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/masood-2019-genetic/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/masood-2019-genetic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Novel Genetic Programming Algorithm with Knowledge Transfer for Uncertain Capacitated Arc Routing</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/ardeh-2019-novel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic Programming with Pareto Local Search for Many-Objective Job Shop Scheduling</title>
-      <link>https://meiyi1986.github.io/publication/masood-2019-genetic/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +1200</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/masood-2019-genetic/</guid>
       <description></description>
     </item>
     

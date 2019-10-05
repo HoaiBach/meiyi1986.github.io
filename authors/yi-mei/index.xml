@@ -6,10 +6,19 @@
     <description>Recent content in Yi Mei on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/yi-mei/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A fast parallel genetic programming framework with adaptively weighted primitives for symbolic regression</title>
+      <link>https://meiyi1986.github.io/publication/huang-2019-fast/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/huang-2019-fast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Two-Stage Genetic Programming Hyper-Heuristic for Uncertain Capacitated Arc Routing Problem</title>

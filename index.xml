@@ -221,24 +221,27 @@
 
 &lt;p&gt;We welcome the submissions of quality papers that effectively use the power of EC techniques to solve hard and practical scheduling and combinatorial optimization problems. Papers with rigorous analyses of EC techniques and innovative solutions to handle challenging issues in scheduling and combinatorial optimisation problems are also highly encouraged.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Topics of interest include, but not limited to:&lt;/strong&gt;
-- Production scheduling
-- Timetabling
-- Vehicle routing
-- Project scheduling
-- Transport scheduling
-- Airport runway scheduling
-- Grid/cloud scheduling
-- Evolutionary scheduling with big data
-- Web service composition
-- SDN scheduling
-- 2D/3D strip packing
-- Resource allocation
-- Multi-objective scheduling
-- Complex combinatorial optimization with interdependent components
-- Automated heuristic design for combinatorial optimization
-- Dynamic combinatorial optimization
-- Innovative applications of evolutionary scheduling and combinatorial optimization&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Topics of interest include, but not limited to:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Production scheduling&lt;/li&gt;
+&lt;li&gt;Timetabling&lt;/li&gt;
+&lt;li&gt;Vehicle routing&lt;/li&gt;
+&lt;li&gt;Project scheduling&lt;/li&gt;
+&lt;li&gt;Transport scheduling&lt;/li&gt;
+&lt;li&gt;Airport runway scheduling&lt;/li&gt;
+&lt;li&gt;Grid/cloud scheduling&lt;/li&gt;
+&lt;li&gt;Evolutionary scheduling with big data&lt;/li&gt;
+&lt;li&gt;Web service composition&lt;/li&gt;
+&lt;li&gt;SDN scheduling&lt;/li&gt;
+&lt;li&gt;2D/3D strip packing&lt;/li&gt;
+&lt;li&gt;Resource allocation&lt;/li&gt;
+&lt;li&gt;Multi-objective scheduling&lt;/li&gt;
+&lt;li&gt;Complex combinatorial optimization with interdependent components&lt;/li&gt;
+&lt;li&gt;Automated heuristic design for combinatorial optimization&lt;/li&gt;
+&lt;li&gt;Dynamic combinatorial optimization&lt;/li&gt;
+&lt;li&gt;Innovative applications of evolutionary scheduling and combinatorial optimization&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;submission-guideline&#34;&gt;Submission Guideline&lt;/h2&gt;
 
@@ -263,7 +266,9 @@
 
 &lt;p&gt;&lt;strong&gt;Dr. Yi Mei, Victoria University of Wellington, New Zealand (yi.mei@ecs.vuw.ac.nz)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Dr. Yi Mei is a Lecturer at the School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand. He received his BSc and PhD degrees from University of Science and Technology of China in 2005 and 2010, respectively. His research interests include evolutionary computation in scheduling, routing and combinatorial optimisation, as well as evolutionary machine learning, genetic programming, feature selection and dimensional reduction. He has more than 70 fully referred publications, including the top journals in EC and Operations Research (OR) such as IEEE TEVC, IEEE Transactions on Cybernetics, European Journal of Operational Research, ACM Transactions on Mathematical Software. He is an Editorial Board Member of International Journal of Bio-Inspired Computation. He serves as a Vice-Chair of the IEEE CIS Emergent Technologies Technical Committee, and a member of three IEEE CIS Task Forces. He is a Guest Editor of a special issue of the Genetic Programming Evolvable Machine journal. He serves as a reviewer of over 25 international journals including the top journals in EC and OR.&lt;/p&gt;
+&lt;p&gt;Dr. Yi Mei is a Senior Lecturer at the School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand. He received his BSc and PhD degrees from University of Science and Technology of China in 2005 and 2010, respectively. His research interests include evolutionary computation in scheduling, routing and combinatorial optimisation, as well as evolutionary machine learning, hyper-heuristics, genetic programming, feature selection and dimensional reduction.&lt;/p&gt;
+
+&lt;p&gt;Yi has more than 70 fully referred publications, including the top journals in EC and Operations Research (OR) such as IEEE TEVC, IEEE Transactions on Cybernetics, European Journal of Operational Research, ACM Transactions on Mathematical Software, and top EC conferences (GECCO). He won an IEEE Transactions on Evolutionary Computation Outstanding Paper Award 2017, and a Victoria University of Wellington Early Research Excellence Award 2018. As the sole investigator, he won the 2nd prize of the Competition at IEEE WCCI 2014: Optimisation of Problems with Multiple Interdependent Components. He serves as a Vice-Chair of the IEEE CIS Emergent Technologies Technical Committee, and a member of three IEEE CIS Task Forces and two IEEE CIS Technical Committees. He is an Editorial Board Member of International Journal of Bio-Inspired Computation, an Associate Editor of International Journal of Applied Evolutionary Computation, and a guest editor of a special issue of the Genetic Programming Evolvable Machine journal. He has organised a number of special sessions in international conferences such as IEEE CEC. He serves as a reviewer of over 30 international journals including the top journals in EC and OR. He was an Outstanding Reviewer for Applied Soft Computing in 2015 and 2017, and IEEE Transactions on Cybernetics in 2018.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Dr. Gang (Aaron) Chen, Victoria University of Wellington, New Zealand (aaron.chen@ecs.vuw.ac.nz)&lt;/strong&gt;&lt;/p&gt;
 

@@ -204,6 +204,84 @@
     </item>
     
     <item>
+      <title>Special Session: Evolutionary Scheduling and Combinatorial Optimization</title>
+      <link>https://meiyi1986.github.io/cec2020-esco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/cec2020-esco/</guid>
+      <description>
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Evolutionary Computation for Combinatorial Optimisation (ECCO) Group is a sub-group under the &lt;a href=&#34;https://ecs.victoria.ac.nz/Groups/ECRG/&#34;&gt;Evolutionary Computation Research Group&lt;/a&gt; in Victoria University of Wellington, New Zealand. The group has a wide range of research interests and projects in solving combinatorial optimisation problems using evolutionary computation, including evolutionary vehicle/arc routing, job shop scheduling, cloud resource allocation, Web service composition.&lt;/p&gt;
+
+&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+
+&lt;h4 id=&#34;staff-members&#34;&gt;Staff Members&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meiyi1986.github.io&#34;&gt;Dr. Yi Mei (Coordinator)&lt;/a&gt;: Evolutionary Combinatorial Optimisation, Hyper-heuristics, Genetic Programming, Dynamic Optimisation, Large-Scale Optimisation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://homepages.ecs.vuw.ac.nz/~mengjie/&#34;&gt;Prof. Mengjie Zhang&lt;/a&gt;: Evolutionary Computation and Machine Learning, Genetic Programming, Image Processing, Feature Selection&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/AaronChen&#34;&gt;Dr. Aaron Chen&lt;/a&gt;: Reinforcement Learning, NeuroEvolution (NEAT), Evolutionary Computation for Games, Evolutionary Scheduling&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/HuiMa&#34;&gt;Dr. Hui Ma&lt;/a&gt;: Evolutionary Resource Allocation, Web Service Composition, Cloud Computing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/YahuiJia&#34;&gt;Dr. Yahui Jia&lt;/a&gt;: Evolutionary Combinatorial Optimisation, Large-Scale Optimisation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.victoria.ac.nz/som/about/staff/vipul-jain&#34;&gt;Dr. Vipul Jain&lt;/a&gt;: Supply Chain Management, Operations Research&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evoscheduling.wordpress.com/&#34;&gt;Dr. Su Nguyen (La Trobe University, Australia)&lt;/a&gt;: Evolutionary Scheduling and Combinatorial Optimisation, Hyper-heuristics, Genetic Programming&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;students&#34;&gt;Students&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/GradMahdiAbdollahi&#34;&gt;Mahdi Abdollahi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradMazharAnsariArdeh&#34;&gt;Mazhar Anzari Ardeh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradJoaoCosta&#34;&gt;Joao Costa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/Kirita-RoseEscott&#34;&gt;Kirita-Rose Escott&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guanqiang Gao&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.victoria.ac.nz/architecture/research/current-phd-research/harry-yi-he&#34;&gt;Harry He&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradGuiyingHuang&#34;&gt;Victoria Huang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jordan MacLaclan&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradAtiyaMasood&#34;&gt;Atiya Masood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.victoria.ac.nz/som/research/phd/mgmt/amirhossein-mostofi&#34;&gt;Amirhossein Mostofi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradSoheilaSadeghiram&#34;&gt;Soheila Sadeghiram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradTaoShi&#34;&gt;Tao Shi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradBoxiongTan&#34;&gt;Boxiong Tan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradChenWang&#34;&gt;Chen Wang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradShaolinWang&#34;&gt;Shaolin Wang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/GradFangfangZhang&#34;&gt;Fangfang Zhang&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;alumni&#34;&gt;Alumni&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Binzi_Xu&#34;&gt;Binzi Xu&lt;/a&gt; (Visiting student from Jiangnan University, 2018-2019)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradJohnPark&#34;&gt;John Park (Graduated in 2019)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradDeepakKarunakaran&#34;&gt;Deepak Karunakaran (Graduated in 2019)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradYimingPeng&#34;&gt;Yiming Peng (Graduated in 2019, working in KPMG)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/AlexandreSawczukdaSilva&#34;&gt;Dr. Alexandre Sawczuk da Silva (Graduated in 2018, working in Huawei Munich)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.google.co.nz/citations?user=YctRNIMAAAAJ&amp;hl=en&#34;&gt;Yuxin Liu (Visiting student from Southwest University, 2017-2018, graduated in 2018, Lecturer in Shanghai Maritime University)&lt;/a&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sms.victoria.ac.nz/Main/GradRachelHunt&#34;&gt;Rachel Hunt (Graduated in 2016)&lt;/a&gt;&lt;/li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
+
+&lt;p&gt;We have regularly weekly meeting at &lt;strong&gt;3pm, Tuesdays&lt;/strong&gt;, at &lt;strong&gt;CO431&lt;/strong&gt; (&lt;a href=&#34;https://meiyi1986.github.io/ecco-talks/&#34;&gt;List of talks&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;visitors&#34;&gt;Visitors&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2019/09/10&amp;ndash;2019/09/21, Sven Hartmann, Clausthal University, Austria.&lt;/li&gt;
+&lt;li&gt;2019/06/15&amp;ndash;2019/06/21, &lt;strong&gt;&lt;a href=&#34;https://www.wbs.ac.uk/about/person/juergen-branke/&#34;&gt;Prof Juergen Branke&lt;/a&gt;&lt;/strong&gt;, Professor of Operational Research, The University of Warwick, UK.&lt;/li&gt;
+&lt;li&gt;2018/11/20, &lt;strong&gt;&lt;a href=&#34;https://www.rmit.edu.au/contact/staff-contacts/academic-staff/s/song-dr-andy&#34;&gt;Dr Andy Song&lt;/a&gt;&lt;/strong&gt;, Senior Lecturer, RMIT University, Australia.&lt;/li&gt;
+&lt;li&gt;2018/04/27&amp;ndash;2018/05/12, &lt;strong&gt;&lt;a href=&#34;https://www.wbs.ac.uk/about/person/juergen-branke/&#34;&gt;Prof Juergen Branke&lt;/a&gt;&lt;/strong&gt;, Professor of Operational Research, The University of Warwick, UK.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://meiyi1986.github.io/#contact&#34;&gt;Dr. Yi Mei (Coordinator)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Supervision</title>
       <link>https://meiyi1986.github.io/supervision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -427,15 +505,6 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
       <pubDate>Sun, 01 Sep 2019 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/karunakaran-2019-multitasking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Novel Genetic Programming Algorithm with Knowledge Transfer for Uncertain Capacitated Arc Routing</title>
-      <link>https://meiyi1986.github.io/publication/ardeh-2019-novel/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +1200</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/ardeh-2019-novel/</guid>
       <description></description>
     </item>
     

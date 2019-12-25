@@ -6,7 +6,7 @@
     <description>Recent content in cooperative-coevolution on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/tags/cooperative-coevolution/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Large Scale Global Optimisation</title>
       <link>https://meiyi1986.github.io/project/lsgo/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/project/lsgo/</guid>
       <description>Most real-world optimisation problems are very large. For example, in a vehicle routing problem, there can be thousands of customers to be served. In addition, these problems have many local optima, and it is easy to be trapped into poor local optima.

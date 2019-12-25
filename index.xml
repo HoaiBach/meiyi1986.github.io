@@ -6,13 +6,13 @@
     <description>Recent content in Yi Mei @ VUW on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +1300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Automated Heuristic Design</title>
       <link>https://meiyi1986.github.io/project/ahd/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/project/ahd/</guid>
       <description>&lt;p&gt;Designing effective heuristic for solving complex real-world optimisation problems is very hard. It usually takes a lot of time and human effort to design an effective heuristic for a specific problem. However, there are a variety of complex problems and human experts are not enough. In this case, AI can help automatically design effective heuristics purely based on historical data.&lt;/p&gt;
@@ -24,7 +24,7 @@
     <item>
       <title>Evolutionary Scheduling and Combinatorial Optimisation</title>
       <link>https://meiyi1986.github.io/project/esco/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/project/esco/</guid>
       <description>&lt;p&gt;This research focuses on solving complicated real-world optimisation problems, which are typically NP-hard. Examples include job shop scheduling, vehicle routing, research allocation and scheduling in cloud, and web service composition. It is normally hardly possible to solve these problems to optimality. We have developed effective evolutionary algorithms and meta-heuristics to search for near-optimal solutions in a short time budget.&lt;/p&gt;
@@ -34,7 +34,7 @@
     <item>
       <title>Large Scale Global Optimisation</title>
       <link>https://meiyi1986.github.io/project/lsgo/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/project/lsgo/</guid>
       <description>&lt;p&gt;Most real-world optimisation problems are very large. For example, in a vehicle routing problem, there can be thousands of customers to be served. In addition, these problems have many local optima, and it is easy to be trapped into poor local optima.&lt;/p&gt;
@@ -177,19 +177,20 @@
       <guid>https://meiyi1986.github.io/pclist/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;AAAI Conference on Artificial Intelligence 2019, 2020&lt;/li&gt;
-&lt;li&gt;ACM Genetic and Evolutionary Computation Conference (GECCO) 2017, 2018, 2019&lt;/li&gt;
-&lt;li&gt;IEEE Congress on Evolutionary Computation (CEC) 2013, 2014, 2016, 2017, 2018, 2019&lt;/li&gt;
+&lt;li&gt;ACM Genetic and Evolutionary Computation Conference (GECCO) 2017, 2018, 2019, 2020&lt;/li&gt;
+&lt;li&gt;IEEE Congress on Evolutionary Computation (CEC) 2013, 2014, 2016, 2017, 2018, 2019, 2020&lt;/li&gt;
+&lt;li&gt;EMO 2021&lt;/li&gt;
 &lt;li&gt;International Conference on Simulated Evolution And Learning (SEAL) 2014, 2017&lt;/li&gt;
 &lt;li&gt;IEEE Symposium Series on Computational Intelligence (SSCI) 2016, 2017, 2019&lt;/li&gt;
 &lt;li&gt;International Conference on Computational Collective Intelligence (ICCCI) 2019&lt;/li&gt;
 &lt;li&gt;Australasian Joint Conference on Artificial Intelligence (Australasian AI) 2015, 2017, 2018&lt;/li&gt;
-&lt;li&gt;International Conference on Advanced Computational Intelligence (ICACI) 2018&lt;/li&gt;
+&lt;li&gt;International Conference on Advanced Computational Intelligence (ICACI) 2018, 2020&lt;/li&gt;
 &lt;li&gt;International Conference on Swarm Intelligence (ICSI) 2018&lt;/li&gt;
-&lt;li&gt;International Conference on Data Mining and Big Data (DMBD) 2018, 2019&lt;/li&gt;
+&lt;li&gt;International Conference on Data Mining and Big Data (DMBD) 2018, 2019, 2020&lt;/li&gt;
 &lt;li&gt;International Conference on Swarm Intelligence (ANTS) 2016, 2018&lt;/li&gt;
-&lt;li&gt;International Conference on Advanced Computational Intelligence 2018&lt;/li&gt;
+&lt;li&gt;International Conference on Advanced Computational Intelligence (ICACI) 2018&lt;/li&gt;
 &lt;li&gt;International ACM Conference on Management of Emergent Digital EcoSystems (MEDES) 2018, 2019&lt;/li&gt;
-&lt;li&gt;International Conference on Data Intelligence and Security (ICDIS) 2018, 2019&lt;/li&gt;
+&lt;li&gt;International Conference on Data Intelligence and Security (ICDIS) 2018, 2019, 2020&lt;/li&gt;
 &lt;li&gt;Australasian Conference on Artificial Life and Computational Intelligence (ACALCI) 2016, 2017&lt;/li&gt;
 &lt;li&gt;Asia-Pacific Symposium on Intelligent and Evolutionary Systems (IES) 2016, 2017&lt;/li&gt;
 &lt;li&gt;International Conference on Innovations in Bio-Inspired Computing and Applications (IBICA) 2015, 2016, 2017&lt;/li&gt;
@@ -454,7 +455,7 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
     <item>
       <title>Genetic Programming Hyper-Heuristics with Vehicle Collaboration for Uncertain Capacitated Arc Routing Problems</title>
       <link>https://meiyi1986.github.io/publication/maclachlan-2019-genetic/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/maclachlan-2019-genetic/</guid>
       <description></description>
@@ -463,7 +464,7 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
     <item>
       <title>A fast parallel genetic programming framework with adaptively weighted primitives for symbolic regression</title>
       <link>https://meiyi1986.github.io/publication/huang-2019-fast/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/huang-2019-fast/</guid>
       <description></description>
@@ -472,7 +473,7 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
     <item>
       <title>A Two-Stage Genetic Programming Hyper-Heuristic for Uncertain Capacitated Arc Routing Problem</title>
       <link>https://meiyi1986.github.io/publication/wang-2019-two/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/wang-2019-two/</guid>
       <description></description>
@@ -481,7 +482,7 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
     <item>
       <title>Evolving Ensembles of Routing Policies using Genetic Programming for Uncertain Capacitated Arc Routing Problem</title>
       <link>https://meiyi1986.github.io/publication/wang-2019-evolving/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/wang-2019-evolving/</guid>
       <description></description>
@@ -490,7 +491,7 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
     <item>
       <title>Genetic Programming with Pareto Local Search for Many-Objective Job Shop Scheduling</title>
       <link>https://meiyi1986.github.io/publication/masood-2019-genetic/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/masood-2019-genetic/</guid>
       <description></description>
@@ -499,7 +500,7 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
     <item>
       <title>Multitasking Genetic Programming for Stochastic Team Orienteering Problem with Time Windows</title>
       <link>https://meiyi1986.github.io/publication/karunakaran-2019-multitasking/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/karunakaran-2019-multitasking/</guid>
       <description></description>

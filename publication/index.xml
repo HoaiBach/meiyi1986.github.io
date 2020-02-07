@@ -6,10 +6,55 @@
     <description>Recent content in Publications on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Group Genetic Algorithm for Resource Allocation in Container-based Clouds</title>
+      <link>https://meiyi1986.github.io/publication/tan-2020-group/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/tan-2020-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Evolutionary Computation for Web Service Composition: A Technical Perspective</title>
+      <link>https://meiyi1986.github.io/publication/da-2020-survey/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2020-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An NSGA-II-based Approach for Multi-objective Micro-service  Allocation in Container-based Clouds</title>
+      <link>https://meiyi1986.github.io/publication/tan-2020-nsga/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/tan-2020-nsga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Programming with Adaptive Search Based on the Frequency of Features for Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2020-genetic/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2020-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guided Subtree Selection for Genetic Operators in Genetic Programming for Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2020-guided/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2020-guided/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genetic Programming Hyper-Heuristics with Vehicle Collaboration for Uncertain Capacitated Arc Routing Problems</title>

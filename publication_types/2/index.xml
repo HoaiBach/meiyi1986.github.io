@@ -6,10 +6,19 @@
     <description>Recent content in 2 on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Survey of Evolutionary Computation for Web Service Composition: A Technical Perspective</title>
+      <link>https://meiyi1986.github.io/publication/da-2020-survey/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/da-2020-survey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genetic Programming Hyper-Heuristics with Vehicle Collaboration for Uncertain Capacitated Arc Routing Problems</title>

@@ -6,15 +6,24 @@
     <description>Recent content in Bing Xue on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/bing-xue/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>A Hybrid Genetic Programming Algorithm for Automated Design of Dispatching Rules</title>
+      <link>https://meiyi1986.github.io/publication/nguyen-2019-hybrid/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/nguyen-2019-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Survey on Evolutionary Machine Learning</title>
       <link>https://meiyi1986.github.io/publication/al-2019-survey/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +1300</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/al-2019-survey/</guid>
       <description></description>

@@ -40,6 +40,70 @@
     
     <url>
     
+      <loc>https://meiyi1986.github.io/publication/masood-2020-fitness/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/gao-2020-memetic/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/jia-2020-memetic/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/wang-2020-multi/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/costa-2020-cluster/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/zhang-2020-evolutionary/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/ardeh-2020-genetic/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/publication/jackson-2020-genetic/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://meiyi1986.github.io/publication/tan-2020-group/</loc>
       <lastmod>2020-02-01T00:00:00+13:00</lastmod>
     </url>
@@ -880,7 +944,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/publication_types/1/</loc>
-      <lastmod>2020-02-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -952,7 +1016,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/atiya-masood/</loc>
-      <lastmod>2019-12-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -979,6 +1043,15 @@
     
       <loc>https://meiyi1986.github.io/authors/benjamin-w-wah/</loc>
       <lastmod>2011-06-01T00:00:00+12:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/authors/bin-xin/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1049,7 +1122,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/fangfang-zhang/</loc>
-      <lastmod>2020-02-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1076,7 +1149,16 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/gang-chen/</loc>
-      <lastmod>2019-12-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/authors/guanqiang-gao/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1094,7 +1176,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/harith-al-sahaf/</loc>
-      <lastmod>2019-12-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1104,6 +1186,15 @@
     
       <loc>https://meiyi1986.github.io/authors/hui-ma/</loc>
       <lastmod>2020-02-01T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/authors/jericho-jackson/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1140,6 +1231,15 @@
     
       <loc>https://meiyi1986.github.io/authors/jinyan-li/</loc>
       <lastmod>2019-08-01T00:00:00+12:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/authors/joao-guilherme-cavalcanti-costa-costa/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1256,7 +1356,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/mazhar-ansari-ardeh/</loc>
-      <lastmod>2019-08-01T00:00:00+12:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1274,7 +1374,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/mengjie-zhang/</loc>
-      <lastmod>2020-02-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1344,7 +1444,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/publication_types/</loc>
-      <lastmod>2020-02-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1353,7 +1453,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/publication/</loc>
-      <lastmod>2020-02-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
     </url>
     
   
@@ -1395,7 +1495,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/shaolin-wang/</loc>
-      <lastmod>2019-12-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1431,6 +1531,15 @@
     
       <loc>https://meiyi1986.github.io/authors/wentong-cai/</loc>
       <lastmod>2019-10-01T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/authors/will-browne/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1474,6 +1583,15 @@
     
     <url>
     
+      <loc>https://meiyi1986.github.io/authors/ya-hui-jia/</loc>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://meiyi1986.github.io/authors/yanan-sun/</loc>
       <lastmod>2019-04-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
@@ -1493,7 +1611,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/yi-mei/</loc>
-      <lastmod>2020-02-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     

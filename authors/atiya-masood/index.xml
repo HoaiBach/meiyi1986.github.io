@@ -6,10 +6,19 @@
     <description>Recent content in Atiya Masood on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/atiya-masood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Fitness-based Selection Method for Pareto Local Search for Many-Objective Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/masood-2020-fitness/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/masood-2020-fitness/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genetic Programming with Pareto Local Search for Many-Objective Job Shop Scheduling</title>

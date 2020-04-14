@@ -6,10 +6,73 @@
     <description>Recent content in Mengjie Zhang on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/mengjie-zhang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Fitness-based Selection Method for Pareto Local Search for Many-Objective Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/masood-2020-fitness/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/masood-2020-fitness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Memetic Level-based Learning Swarm Optimizer for Large-scale Water Distribution Network Optimization</title>
+      <link>https://meiyi1986.github.io/publication/jia-2020-memetic/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/jia-2020-memetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Objective Genetic Programming Hyper-Heuristic Approach to Uncertain Capacitated Arc Routing Problems</title>
+      <link>https://meiyi1986.github.io/publication/wang-2020-multi/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/wang-2020-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cluster-based Hyper-Heuristic for the Large-Scale Vehicle Routing Problem</title>
+      <link>https://meiyi1986.github.io/publication/costa-2020-cluster/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/costa-2020-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Multitasking for Dynamic Flexible Job Shop Scheduling via Genetic Programming Hyper-heuristics</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2020-evolutionary/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2020-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Programming Hyper-Heuristics with Probabilistic Prototype Tree Knowledge Transfer for Uncertain Capacitated Arc Routing Problems</title>
+      <link>https://meiyi1986.github.io/publication/ardeh-2020-genetic/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/ardeh-2020-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Programming Hyper-heuristic with Cluster Awareness for Stochastic Team Orienteering Problem with Time Windows</title>
+      <link>https://meiyi1986.github.io/publication/jackson-2020-genetic/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/jackson-2020-genetic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Survey of Evolutionary Computation for Web Service Composition: A Technical Perspective</title>

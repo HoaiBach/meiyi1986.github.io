@@ -184,7 +184,7 @@
 &lt;li&gt;IEEE Congress on Evolutionary Computation (CEC) 2013, 2014, 2016, 2017, 2018, 2019, 2020&lt;/li&gt;
 &lt;li&gt;EMO 2021&lt;/li&gt;
 &lt;li&gt;International Conference on Simulated Evolution And Learning (SEAL) 2014, 2017&lt;/li&gt;
-&lt;li&gt;IEEE Symposium Series on Computational Intelligence (SSCI) 2016, 2017, 2019&lt;/li&gt;
+&lt;li&gt;IEEE Symposium Series on Computational Intelligence (SSCI) 2016, 2017, 2019, 2020&lt;/li&gt;
 &lt;li&gt;International Conference on Computational Collective Intelligence (ICCCI) 2019&lt;/li&gt;
 &lt;li&gt;Australasian Joint Conference on Artificial Intelligence (Australasian AI) 2015, 2017, 2018&lt;/li&gt;
 &lt;li&gt;International Conference on Advanced Computational Intelligence (ICACI) 2018, 2020&lt;/li&gt;
@@ -475,11 +475,38 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
     </item>
     
     <item>
+      <title>A Group Genetic Algorithm for Resource Allocation in Container-based Clouds</title>
+      <link>https://meiyi1986.github.io/publication/tan-2020-group/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/tan-2020-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Programming with Adaptive Search Based on the Frequency of Features for Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2020-genetic/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2020-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Genetic Programming with Delayed Routing for Multi-Objective Dynamic Flexible Job Shop Scheduling</title>
       <link>https://meiyi1986.github.io/publication/xu-2020-genetic/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/xu-2020-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guided Subtree Selection for Genetic Operators in Genetic Programming for Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2020-guided/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2020-guided/</guid>
       <description></description>
     </item>
     
@@ -498,33 +525,6 @@ Grouping Constrained Storage Location Assignment Problem&amp;rdquo; &lt;a href=&
       <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/gao-2020-memetic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Memetic Level-based Learning Swarm Optimizer for Large-scale Water Distribution Network Optimization</title>
-      <link>https://meiyi1986.github.io/publication/jia-2020-memetic/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/jia-2020-memetic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Multi-Objective Genetic Programming Hyper-Heuristic Approach to Uncertain Capacitated Arc Routing Problems</title>
-      <link>https://meiyi1986.github.io/publication/wang-2020-multi/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/wang-2020-multi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cluster-based Hyper-Heuristic for the Large-Scale Vehicle Routing Problem</title>
-      <link>https://meiyi1986.github.io/publication/costa-2020-cluster/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/costa-2020-cluster/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Ya-Hui Jia on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +1200</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/ya-hui-jia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Memetic Level-based Learning Swarm Optimizer for Large-scale Water Distribution Network Optimization</title>
+      <link>https://meiyi1986.github.io/publication/jia-2020-memetic/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/jia-2020-memetic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Memetic Algorithm for the Task Allocation Problem on Multi-robot Multi-point Dynamic Aggregation Missions</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/gao-2020-memetic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Memetic Level-based Learning Swarm Optimizer for Large-scale Water Distribution Network Optimization</title>
-      <link>https://meiyi1986.github.io/publication/jia-2020-memetic/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/jia-2020-memetic/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multi-objective on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/tags/multi-objective/</link>
+    <description>Recent content in multi-objective on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/tags/multi-objective/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evolutionary Scheduling and Combinatorial Optimisation</title>
+      <link>https://meiyi1986.github.io/project/esco/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/project/esco/</guid>
+      <description>This research focuses on solving complicated real-world optimisation problems, which are typically NP-hard. Examples include job shop scheduling, vehicle routing, research allocation and scheduling in cloud, and web service composition. It is normally hardly possible to solve these problems to optimality. We have developed effective evolutionary algorithms and meta-heuristics to search for near-optimal solutions in a short time budget.</description>
+    </item>
+    
+  </channel>
+</rss>

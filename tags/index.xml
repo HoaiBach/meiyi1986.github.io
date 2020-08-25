@@ -20,11 +20,29 @@
     </item>
     
     <item>
+      <title>divide-and-conquer</title>
+      <link>https://meiyi1986.github.io/tags/divide-and-conquer/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/tags/divide-and-conquer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>evolutionary-learning</title>
       <link>https://meiyi1986.github.io/tags/evolutionary-learning/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/tags/evolutionary-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic-programming</title>
+      <link>https://meiyi1986.github.io/tags/genetic-programming/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/tags/genetic-programming/</guid>
       <description></description>
     </item>
     
@@ -38,6 +56,15 @@
     </item>
     
     <item>
+      <title>memetic-algorithm</title>
+      <link>https://meiyi1986.github.io/tags/memetic-algorithm/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/tags/memetic-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>meta-heuristic</title>
       <link>https://meiyi1986.github.io/tags/meta-heuristic/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
@@ -47,11 +74,29 @@
     </item>
     
     <item>
-      <title>optimisation</title>
-      <link>https://meiyi1986.github.io/tags/optimisation/</link>
+      <title>multi-objective</title>
+      <link>https://meiyi1986.github.io/tags/multi-objective/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
       
-      <guid>https://meiyi1986.github.io/tags/optimisation/</guid>
+      <guid>https://meiyi1986.github.io/tags/multi-objective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multitask-optimisation</title>
+      <link>https://meiyi1986.github.io/tags/multitask-optimisation/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/tags/multitask-optimisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer-optimisation</title>
+      <link>https://meiyi1986.github.io/tags/transfer-optimisation/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/tags/transfer-optimisation/</guid>
       <description></description>
     </item>
     

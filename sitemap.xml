@@ -1742,7 +1742,25 @@
     
     <url>
     
+      <loc>https://meiyi1986.github.io/tags/divide-and-conquer/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://meiyi1986.github.io/tags/evolutionary-learning/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/tags/genetic-programming/</loc>
       <lastmod>2019-02-21T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1760,6 +1778,15 @@
     
     <url>
     
+      <loc>https://meiyi1986.github.io/tags/memetic-algorithm/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://meiyi1986.github.io/tags/meta-heuristic/</loc>
       <lastmod>2019-02-21T00:00:00+13:00</lastmod>
       <priority>0</priority>
@@ -1769,7 +1796,25 @@
     
     <url>
     
-      <loc>https://meiyi1986.github.io/tags/optimisation/</loc>
+      <loc>https://meiyi1986.github.io/tags/multi-objective/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/tags/multitask-optimisation/</loc>
+      <lastmod>2019-02-21T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/tags/transfer-optimisation/</loc>
       <lastmod>2019-02-21T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>

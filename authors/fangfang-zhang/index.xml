@@ -6,10 +6,19 @@
     <description>Recent content in Fangfang Zhang on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +1200</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/fangfang-zhang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Evolving Scheduling Heuristics via Genetic Programming with Feature Selection in Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2020-evolving/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2020-evolving/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evolutionary Multitasking for Dynamic Flexible Job Shop Scheduling via Genetic Programming Hyper-heuristics</title>

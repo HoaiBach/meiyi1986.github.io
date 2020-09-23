@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joao Costa on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/joao-costa/</link>
+    <description>Recent content in Joao Costa on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +1200</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/joao-costa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaptive Search Space through Evolutionary Hyper-Heuristics for the Large-Scale Vehicle Routing Problem</title>
+      <link>https://meiyi1986.github.io/publication/costa-2020-adaptive/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +1200</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/costa-2020-adaptive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

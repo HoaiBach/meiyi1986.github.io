@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.0.0">
+  <meta name="generator" content="Hugo 0.54.0" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Yi Mei">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Overview Evolutionary scheduling and combinatorial optimization (ESCO) is an important research area at the interface of artificial intelligence (AI) and operations research (OR). ESCO has attracted the attentions of researchers over the years due to its applicability and interesting computational aspects. Evolutionary Computation (EC) techniques are suitable for these problems since they are highly flexible regarding handling constraints, dynamic changes, and multiple conflicting objectives. With the growth of new technologies and business models, researchers in this field have to continuously face new challenges, which required innovated solution methods.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://meiyi1986.github.io/cec2021-esco/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="https://meiyi1986.github.io/index.xml" type="application/rss+xml" title="Yi Mei @ VUW">
+  <link rel="feed" href="https://meiyi1986.github.io/index.xml" type="application/rss+xml" title="Yi Mei @ VUW">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://meiyi1986.github.io/cec2021-esco/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Yi Mei @ VUW">
+  <meta property="og:url" content="https://meiyi1986.github.io/cec2021-esco/">
+  <meta property="og:title" content="Special Session: Evolutionary Scheduling and Combinatorial Optimization | Yi Mei @ VUW">
+  <meta property="og:description" content="Overview Evolutionary scheduling and combinatorial optimization (ESCO) is an important research area at the interface of artificial intelligence (AI) and operations research (OR). ESCO has attracted the attentions of researchers over the years due to its applicability and interesting computational aspects. Evolutionary Computation (EC) techniques are suitable for these problems since they are highly flexible regarding handling constraints, dynamic changes, and multiple conflicting objectives. With the growth of new technologies and business models, researchers in this field have to continuously face new challenges, which required innovated solution methods."><meta property="og:image" content="https://meiyi1986.github.io/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  
+  
+  
+
+  
+
+  
+
+  <title>Special Session: Evolutionary Scheduling and Combinatorial Optimization | Yi Mei @ VUW</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Yi Mei @ VUW</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#research">
+            
+            <span>Research</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#grants">
+            
+            <span>Grants&Awards</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications_featured">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#supervision">
+            
+            <span>Supervision</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#services">
+            
+            <span>Services</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#resources">
+            
+            <span>Resources</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Special Session: Evolutionary Scheduling and Combinatorial Optimization</h1>
+
+  
+  <p class="page-subtitle">The IEEE Congress on Evolutionary Computation (CEC) 2021<br/>18 June-01 July 2020, Kraków, Poland</p>
+  
+
+  
+    
+
+
+
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Special%20Session%3a%20Evolutionary%20Scheduling%20and%20Combinatorial%20Optimization&amp;url=https%3a%2f%2fmeiyi1986.github.io%2fcec2021-esco%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmeiyi1986.github.io%2fcec2021-esco%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmeiyi1986.github.io%2fcec2021-esco%2f&amp;title=Special%20Session%3a%20Evolutionary%20Scheduling%20and%20Combinatorial%20Optimization"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmeiyi1986.github.io%2fcec2021-esco%2f&amp;title=Special%20Session%3a%20Evolutionary%20Scheduling%20and%20Combinatorial%20Optimization"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Special%20Session%3a%20Evolutionary%20Scheduling%20and%20Combinatorial%20Optimization&amp;body=https%3a%2f%2fmeiyi1986.github.io%2fcec2021-esco%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<h2 id="overview">Overview</h2>
+
+<p>Evolutionary scheduling and combinatorial optimization (ESCO) is an important research area at the interface of artificial intelligence (AI) and operations research (OR). ESCO has attracted the attentions of researchers over the years due to its applicability and interesting computational aspects. Evolutionary Computation (EC) techniques are suitable for these problems since they are highly flexible regarding handling constraints, dynamic changes, and multiple conflicting objectives. With the growth of new technologies and business models, researchers in this field have to continuously face new challenges, which required innovated solution methods.</p>
+
+<h2 id="scope-and-topics">Scope and Topics</h2>
+
+<p>This special session focuses on both practical and theoretical aspects of Evolutionary Scheduling and Combinatorial Optimization. Examples of evolutionary methods include genetic algorithm, genetic programming, evolutionary strategies, ant colony optimization, particle swarm optimization, evolutionary based hyper-heuristics, memetic algorithms. Novel hybrid approaches that combine machine learning and evolutionary computation to solve difficult ESCO problems are highly encouraged. Examples include using machine learning to improve surrogate-assisted evolutionary algorithms, and designing evolutionary algorithms for reinforcement learning and transfer learning.</p>
+
+<p>We welcome the submissions of quality papers that effectively use the power of EC techniques to solve hard and practical scheduling and combinatorial optimization problems. Papers with rigorous analyses of EC techniques and innovative solutions to handle challenging issues in scheduling and combinatorial optimisation problems are also highly encouraged.</p>
+
+<p><strong>Topics of interest include, but not limited to:</strong></p>
+
+<ul>
+<li>Evolutionary learning for combinatorial optimisation</li>
+<li>Production scheduling</li>
+<li>Timetabling</li>
+<li>Vehicle routing</li>
+<li>Project scheduling</li>
+<li>Transport scheduling</li>
+<li>Airport runway scheduling</li>
+<li>Grid/cloud scheduling</li>
+<li>Evolutionary scheduling with big data</li>
+<li>Web service composition</li>
+<li>SDN scheduling</li>
+<li>2D/3D strip packing</li>
+<li>Resource allocation</li>
+<li>Multi-objective scheduling</li>
+<li>Complex combinatorial optimization with interdependent components</li>
+<li>Automated heuristic design for combinatorial optimization</li>
+<li>Dynamic combinatorial optimization</li>
+<li>Innovative applications of evolutionary scheduling and combinatorial optimization</li>
+</ul>
+
+<h2 id="submission-guideline">Submission Guideline</h2>
+
+<p>Please follow the submission guideline from the <a href="https://cec2021.mini.pw.edu.pl">IEEE CEC 2021</a> Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the <strong>Special Session on Evolutionary Scheduling and Combinatorial Optimisation</strong>. All papers accepted and presented at CEC 2021 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+<li><strong>31 Jan 2021</strong>: Paper Submission Deadline</li>
+<li><strong>22 Mar 2021</strong>: Paper Acceptance Notification</li>
+<li><strong>7 Apr 2021</strong>: Final Paper Submission &amp; Early Registration Deadline</li>
+<li><strong>28 June 2021 - 1 July 2021</strong>: Conference Date</li>
+</ul>
+
+<h2 id="special-session-organizers">Special Session Organizers</h2>
+
+<p><strong>Dr. Su Nguyen, La Trobe University, Australia (p.nguyen4@latrobe.edu.au)</strong></p>
+
+<p>Dr. Su Nguyen is a David Myers Research Fellow attached to the Centre for Research in Data Analytics and Cognition, La Trobe University, Australia. He has taken different research positions focusing on quantitative methods for operations management. He was a Research Associate in Industrial and Manufacturing Engineering at the School of Engineering and Technology, AIT from 2009 to 2010 and the Research Assistant at VUW from 2011 to 2013. He was a postdoctoral research fellow at VUW from 2013 to 2016, focusing on automated design of production scheduling heuristics. From 2014 to 2016, he was also the lecturer at International University, VNU-HCMC and Hoa Sen University in Vietnam.</p>
+
+<p>His primary research interests include computational intelligence, optimization, data analytics, large-scale simulation, and their applications in operations management. His current research is focusing on cognitive planning and scheduling, which attempts to combine the power of advanced machine learning and optimisation methods to improve the efficiency of service and logistics systems. His works have been published in top peer-reviewed journals in evolutionary computation and operations research. Su Nguyen is currently a member of IEEE and IEEE Computational Intelligence Society and the Chair of IEEE Task Force on Evolutionary Scheduling and Combinatorial Optimization. He is also in the editorial board of Complex and Intelligent Systems and the guest editor of special issue on “Automated Design and Adaption of Heuristics for Scheduling and Combinatorial Optimization”, to be published in Genetic Programming and Evolvable Machines. He is also the reviewer of high-quality journals in evolutionary computation, operations research, and production/transportation research.</p>
+
+<p><strong>Dr. Yi Mei, Victoria University of Wellington, New Zealand (yi.mei@ecs.vuw.ac.nz)</strong></p>
+
+<p>Dr. Yi Mei (M’09-SM’18) is a Senior Lecturer at the School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand. He received his BSc and PhD degrees from University of Science and Technology of China in 2005 and 2010, respectively. His research interests include evolutionary computation in scheduling, routing and combinatorial optimisation, as well as evolutionary machine learning, hyper-heuristics, genetic programming, feature selection and dimensional reduction.</p>
+
+<p>Yi has more than 100 fully referred publications, including the top journals in EC and Operations Research (OR) such as IEEE TEVC, IEEE Transactions on Cybernetics, European Journal of Operational Research, ACM Transactions on Mathematical Software, and top EC conferences (GECCO). He won an IEEE Transactions on Evolutionary Computation Outstanding Paper Award 2017, and a Victoria University of Wellington Early Research Excellence Award 2018. As the sole investigator, he won the 2nd prize of the Competition at IEEE WCCI 2014: Optimisation of Problems with Multiple Interdependent Components. He serves as a Vice-Chair of the IEEE CIS Emergent Technologies Technical Committee, and a member of three IEEE CIS Task Forces and two IEEE CIS Technical Committees. He is an Editorial Board Member of International Journal of Bio-Inspired Computation, an Associate Editor of International Journal of Applied Evolutionary Computation and International Journal of Automation and Control, and a guest editor of a special issue of the Genetic Programming Evolvable Machine journal. He has organised a number of special sessions in international conferences such as IEEE CEC. He serves as a reviewer of over 30 international journals including the top journals in EC and OR. He was an Outstanding Reviewer for Applied Soft Computing in 2015 and 2017, and IEEE Transactions on Cybernetics in 2018.</p>
+
+<p><strong>Dr. Gang (Aaron) Chen, Victoria University of Wellington, New Zealand (aaron.chen@ecs.vuw.ac.nz)</strong></p>
+
+<p>Dr Gang (Aaron) Chen is currently a senior lecturer in the School of Engineering and Computer Science at Victoria University of Wellington (VUW). He is also co-leading the strategic research direction on Evolutionary Scheduling and Combinatorial Optimization of the Evolutionary Computation Research Group at VUW. In the past, he worked as lecturer at Unitec Institute of Technology in New Zealand from 2010 to 2013 and visiting assistant professor in the School of Electrical and Electronic Engineering at Nanyang Technological University in Singapore from 2007 to 2010.</p>
+
+<p>His primary research interests include reinforcement learning and learning classifier systems, evolutionary computation for job shop scheduling and combinatorial optimization, and multi-agent and peer-to-peer systems. His works have been published in top peer-reviewed journals, including IEEE and ACM Transactions, in the area of machine learning, evolutionary computation, and distributed computing. Gang Chen is currently a member of IEEE and IEEE Computational Intelligence Society. He served as the guest editor of a special issue on &ldquo;Evolutionary Optimisation, Feature Reduction and Learning&rdquo; in the Soft Computing journal. In the recent years he was involved in the technical committees of various conferences in the area of artificial intelligence and evolutionary computation. He is also the reviewer of high-quality journals in the research field of evolutionary computation, machine learning, and distributed computing.</p>
+
+    </div>
+
+    
+
+
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.109caa4f51ff39522c6dfc25fb05b6e9.js"></script>
+
+  </body>
+</html>
+

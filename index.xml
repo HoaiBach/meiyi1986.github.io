@@ -288,6 +288,82 @@
     </item>
     
     <item>
+      <title>Special Session: Evolutionary Scheduling and Combinatorial Optimization</title>
+      <link>https://meiyi1986.github.io/cec2021-esco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://meiyi1986.github.io/cec2021-esco/</guid>
+      <description>
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Evolutionary scheduling and combinatorial optimization (ESCO) is an important research area at the interface of artificial intelligence (AI) and operations research (OR). ESCO has attracted the attentions of researchers over the years due to its applicability and interesting computational aspects. Evolutionary Computation (EC) techniques are suitable for these problems since they are highly flexible regarding handling constraints, dynamic changes, and multiple conflicting objectives. With the growth of new technologies and business models, researchers in this field have to continuously face new challenges, which required innovated solution methods.&lt;/p&gt;
+
+&lt;h2 id=&#34;scope-and-topics&#34;&gt;Scope and Topics&lt;/h2&gt;
+
+&lt;p&gt;This special session focuses on both practical and theoretical aspects of Evolutionary Scheduling and Combinatorial Optimization. Examples of evolutionary methods include genetic algorithm, genetic programming, evolutionary strategies, ant colony optimization, particle swarm optimization, evolutionary based hyper-heuristics, memetic algorithms. Novel hybrid approaches that combine machine learning and evolutionary computation to solve difficult ESCO problems are highly encouraged. Examples include using machine learning to improve surrogate-assisted evolutionary algorithms, and designing evolutionary algorithms for reinforcement learning and transfer learning.&lt;/p&gt;
+
+&lt;p&gt;We welcome the submissions of quality papers that effectively use the power of EC techniques to solve hard and practical scheduling and combinatorial optimization problems. Papers with rigorous analyses of EC techniques and innovative solutions to handle challenging issues in scheduling and combinatorial optimisation problems are also highly encouraged.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Topics of interest include, but not limited to:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Evolutionary learning for combinatorial optimisation&lt;/li&gt;
+&lt;li&gt;Production scheduling&lt;/li&gt;
+&lt;li&gt;Timetabling&lt;/li&gt;
+&lt;li&gt;Vehicle routing&lt;/li&gt;
+&lt;li&gt;Project scheduling&lt;/li&gt;
+&lt;li&gt;Transport scheduling&lt;/li&gt;
+&lt;li&gt;Airport runway scheduling&lt;/li&gt;
+&lt;li&gt;Grid/cloud scheduling&lt;/li&gt;
+&lt;li&gt;Evolutionary scheduling with big data&lt;/li&gt;
+&lt;li&gt;Web service composition&lt;/li&gt;
+&lt;li&gt;SDN scheduling&lt;/li&gt;
+&lt;li&gt;2D/3D strip packing&lt;/li&gt;
+&lt;li&gt;Resource allocation&lt;/li&gt;
+&lt;li&gt;Multi-objective scheduling&lt;/li&gt;
+&lt;li&gt;Complex combinatorial optimization with interdependent components&lt;/li&gt;
+&lt;li&gt;Automated heuristic design for combinatorial optimization&lt;/li&gt;
+&lt;li&gt;Dynamic combinatorial optimization&lt;/li&gt;
+&lt;li&gt;Innovative applications of evolutionary scheduling and combinatorial optimization&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;submission-guideline&#34;&gt;Submission Guideline&lt;/h2&gt;
+
+&lt;p&gt;Please follow the submission guideline from the &lt;a href=&#34;https://cec2021.mini.pw.edu.pl&#34;&gt;IEEE CEC 2021&lt;/a&gt; Submission Website. Special session papers are treated the same as regular conference papers. Please specify that your paper is for the &lt;strong&gt;Special Session on Evolutionary Scheduling and Combinatorial Optimisation&lt;/strong&gt;. All papers accepted and presented at CEC 2021 will be included in the conference proceedings published by IEEE Explore, which are typically indexed by EI.&lt;/p&gt;
+
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;31 Jan 2021&lt;/strong&gt;: Paper Submission Deadline&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;22 Mar 2021&lt;/strong&gt;: Paper Acceptance Notification&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;7 Apr 2021&lt;/strong&gt;: Final Paper Submission &amp;amp; Early Registration Deadline&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;28 June 2021 - 1 July 2021&lt;/strong&gt;: Conference Date&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;special-session-organizers&#34;&gt;Special Session Organizers&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Dr. Su Nguyen, La Trobe University, Australia (p.nguyen4@latrobe.edu.au)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. Su Nguyen is a David Myers Research Fellow attached to the Centre for Research in Data Analytics and Cognition, La Trobe University, Australia. He has taken different research positions focusing on quantitative methods for operations management. He was a Research Associate in Industrial and Manufacturing Engineering at the School of Engineering and Technology, AIT from 2009 to 2010 and the Research Assistant at VUW from 2011 to 2013. He was a postdoctoral research fellow at VUW from 2013 to 2016, focusing on automated design of production scheduling heuristics. From 2014 to 2016, he was also the lecturer at International University, VNU-HCMC and Hoa Sen University in Vietnam.&lt;/p&gt;
+
+&lt;p&gt;His primary research interests include computational intelligence, optimization, data analytics, large-scale simulation, and their applications in operations management. His current research is focusing on cognitive planning and scheduling, which attempts to combine the power of advanced machine learning and optimisation methods to improve the efficiency of service and logistics systems. His works have been published in top peer-reviewed journals in evolutionary computation and operations research. Su Nguyen is currently a member of IEEE and IEEE Computational Intelligence Society and the Chair of IEEE Task Force on Evolutionary Scheduling and Combinatorial Optimization. He is also in the editorial board of Complex and Intelligent Systems and the guest editor of special issue on “Automated Design and Adaption of Heuristics for Scheduling and Combinatorial Optimization”, to be published in Genetic Programming and Evolvable Machines. He is also the reviewer of high-quality journals in evolutionary computation, operations research, and production/transportation research.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dr. Yi Mei, Victoria University of Wellington, New Zealand (yi.mei@ecs.vuw.ac.nz)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. Yi Mei (M’09-SM’18) is a Senior Lecturer at the School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand. He received his BSc and PhD degrees from University of Science and Technology of China in 2005 and 2010, respectively. His research interests include evolutionary computation in scheduling, routing and combinatorial optimisation, as well as evolutionary machine learning, hyper-heuristics, genetic programming, feature selection and dimensional reduction.&lt;/p&gt;
+
+&lt;p&gt;Yi has more than 100 fully referred publications, including the top journals in EC and Operations Research (OR) such as IEEE TEVC, IEEE Transactions on Cybernetics, European Journal of Operational Research, ACM Transactions on Mathematical Software, and top EC conferences (GECCO). He won an IEEE Transactions on Evolutionary Computation Outstanding Paper Award 2017, and a Victoria University of Wellington Early Research Excellence Award 2018. As the sole investigator, he won the 2nd prize of the Competition at IEEE WCCI 2014: Optimisation of Problems with Multiple Interdependent Components. He serves as a Vice-Chair of the IEEE CIS Emergent Technologies Technical Committee, and a member of three IEEE CIS Task Forces and two IEEE CIS Technical Committees. He is an Editorial Board Member of International Journal of Bio-Inspired Computation, an Associate Editor of International Journal of Applied Evolutionary Computation and International Journal of Automation and Control, and a guest editor of a special issue of the Genetic Programming Evolvable Machine journal. He has organised a number of special sessions in international conferences such as IEEE CEC. He serves as a reviewer of over 30 international journals including the top journals in EC and OR. He was an Outstanding Reviewer for Applied Soft Computing in 2015 and 2017, and IEEE Transactions on Cybernetics in 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dr. Gang (Aaron) Chen, Victoria University of Wellington, New Zealand (aaron.chen@ecs.vuw.ac.nz)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr Gang (Aaron) Chen is currently a senior lecturer in the School of Engineering and Computer Science at Victoria University of Wellington (VUW). He is also co-leading the strategic research direction on Evolutionary Scheduling and Combinatorial Optimization of the Evolutionary Computation Research Group at VUW. In the past, he worked as lecturer at Unitec Institute of Technology in New Zealand from 2010 to 2013 and visiting assistant professor in the School of Electrical and Electronic Engineering at Nanyang Technological University in Singapore from 2007 to 2010.&lt;/p&gt;
+
+&lt;p&gt;His primary research interests include reinforcement learning and learning classifier systems, evolutionary computation for job shop scheduling and combinatorial optimization, and multi-agent and peer-to-peer systems. His works have been published in top peer-reviewed journals, including IEEE and ACM Transactions, in the area of machine learning, evolutionary computation, and distributed computing. Gang Chen is currently a member of IEEE and IEEE Computational Intelligence Society. He served as the guest editor of a special issue on &amp;ldquo;Evolutionary Optimisation, Feature Reduction and Learning&amp;rdquo; in the Soft Computing journal. In the recent years he was involved in the technical committees of various conferences in the area of artificial intelligence and evolutionary computation. He is also the reviewer of high-quality journals in the research field of evolutionary computation, machine learning, and distributed computing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Supervision</title>
       <link>https://meiyi1986.github.io/supervision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -546,15 +622,6 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
       <pubDate>Tue, 01 Sep 2020 00:00:00 +1200</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/ardeh-2020-diversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolving Scheduling Heuristics via Genetic Programming with Feature Selection in Dynamic Flexible Job Shop Scheduling</title>
-      <link>https://meiyi1986.github.io/publication/zhang-2020-evolving/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +1200</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/zhang-2020-evolving/</guid>
       <description></description>
     </item>
     

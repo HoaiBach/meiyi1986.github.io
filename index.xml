@@ -297,6 +297,8 @@
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
+&lt;p&gt;&lt;img src=&#34;jss.PNG&#34; alt=&#34;Job shop scheduling&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Evolutionary scheduling and combinatorial optimization (ESCO) is an important research area at the interface of artificial intelligence (AI) and operations research (OR). ESCO has attracted the attentions of researchers over the years due to its applicability and interesting computational aspects. Evolutionary Computation (EC) techniques are suitable for these problems since they are highly flexible regarding handling constraints, dynamic changes, and multiple conflicting objectives. With the growth of new technologies and business models, researchers in this field have to continuously face new challenges, which required innovated solution methods.&lt;/p&gt;
 
 &lt;h2 id=&#34;scope-and-topics&#34;&gt;Scope and Topics&lt;/h2&gt;

@@ -64,8 +64,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://meiyi1986.github.io&#34;&gt;Dr. Yi Mei (Coordinator)&lt;/a&gt;: Evolutionary Combinatorial Optimisation, Hyper-heuristics, Genetic Programming, Dynamic Optimisation, Large-Scale Optimisation&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://homepages.ecs.vuw.ac.nz/~mengjie/&#34;&gt;Prof. Mengjie Zhang&lt;/a&gt;: Evolutionary Computation and Machine Learning, Genetic Programming, Image Processing, Feature Selection&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/AaronChen&#34;&gt;Dr. Aaron Chen&lt;/a&gt;: Reinforcement Learning, NeuroEvolution (NEAT), Evolutionary Computation for Games, Evolutionary Scheduling&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/HuiMa&#34;&gt;Dr. Hui Ma&lt;/a&gt;: Evolutionary Resource Allocation, Web Service Composition, Cloud Computing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/AaronChen&#34;&gt;Dr. Aaron Chen&lt;/a&gt;: Reinforcement Learning, NeuroEvolution (NEAT), Evolutionary Computation for Games, Evolutionary Scheduling&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/YahuiJia&#34;&gt;Dr. Yahui Jia&lt;/a&gt;: Evolutionary Combinatorial Optimisation, Large-Scale Optimisation&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ecs.wgtn.ac.nz/Main/MohammadNekooei&#34;&gt;Mohammad Nekooei&lt;/a&gt;: Machine learning and fuzzy logic for network scheduling&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.victoria.ac.nz/som/about/staff/vipul-jain&#34;&gt;Dr. Vipul Jain&lt;/a&gt;: Supply Chain Management, Operations Research&lt;/li&gt;
@@ -79,10 +79,12 @@
 &lt;li&gt;&lt;a href=&#34;https://ecs.wgtn.ac.nz/Main/GradTaiwoAdeyemiAkindele&#34;&gt;Taiwo Akindele&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradMazharAnsariArdeh&#34;&gt;Mazhar Anzari Ardeh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradJoaoCosta&#34;&gt;Joao Costa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Yifan Chen&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/Kirita-RoseEscott&#34;&gt;Kirita-Rose Escott&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Guanqiang Gao&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.victoria.ac.nz/architecture/research/current-phd-research/harry-yi-he&#34;&gt;Harry He&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradGuiyingHuang&#34;&gt;Victoria Huang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Zhixing Huang&lt;/li&gt;
 &lt;li&gt;Jordan MacLaclan&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradAtiyaMasood&#34;&gt;Atiya Masood&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.victoria.ac.nz/som/research/phd/mgmt/amirhossein-mostofi&#34;&gt;Amirhossein Mostofi&lt;/a&gt;&lt;/li&gt;
@@ -90,6 +92,7 @@
 &lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradTaoShi&#34;&gt;Tao Shi&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradBoxiongTan&#34;&gt;Boxiong Tan&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradShaolinWang&#34;&gt;Shaolin Wang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Meng Xu&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://ecs.victoria.ac.nz/Main/GradFangfangZhang&#34;&gt;Fangfang Zhang&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -391,7 +394,10 @@
 &lt;h3 id=&#34;phd&#34;&gt;PhD&lt;/h3&gt;
 
 &lt;ol&gt;
+&lt;li&gt;&lt;b&gt;Zhixing Huang&lt;/b&gt; (Victoria University of Wellington, 2020): &#34;Genetic Programming for Dynamic Scheduling&#34; (with Prof Mengjie Zhang)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Meng Xu&lt;/b&gt; (Victoria University of Wellington, 2020): &#34;Genetic Programming for Dynamic Scheduling&#34; (with Dr Mengjie Zhang)&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;Taiwo Akindele&lt;/b&gt; (Victoria University of Wellington, 2020): &#34;Resource Allocation problem in Cloud&#34; (with Dr Hui Ma)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Mike Ruigrok&lt;/b&gt; (Victoria University of Wellington, 2020): &#34;Data Science and Multi-Criteria Decision Making for Genomics&#34; (with Prof Mengjie Zhang, A/Prof Bing Xue, Dr Linley Jesson, Dr. Maren Wellenreuther)&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;Shaolin Wang&lt;/b&gt; (Victoria University of Wellington, 2019): &#34;Genetic Programming for Uncertain Arc Routing Problem&#34; (with Prof Mengjie Zhang)&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;Joao Costa&lt;/b&gt; (Victoria University of Wellington, 2019): &#34;Hyper-heuristic for Vehicle Routing&#34; (with Prof Mengjie Zhang)&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;Amirhossein Mostofi&lt;/b&gt; (Victoria University of Wellington, 2019): &#34;Optimisation in Pharmecautical Supply Chain Management&#34; (with Dr Vipul Jain)&lt;/li&gt;
@@ -440,6 +446,8 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
 &lt;h3 id=&#34;summer-research-scholarship-students&#34;&gt;Summer Research Scholarship Students&lt;/h3&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fergus Currie&lt;/strong&gt; (Victoria University of Wellington, 2020): &amp;ldquo;Multi-Criteria Desicion Making for Fish Breeding Program&amp;rdquo; (NZ Data Science Program in collaboration with Plant and Food)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sai Panda&lt;/strong&gt; (Victoria University of Wellington, 2020): &amp;ldquo;Interpretable Genetic Programming for Scheduling&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Jordan MacLachlan&lt;/strong&gt; (Victoria University of Wellington, 2020): &amp;ldquo;Genetic Programming for Uncertain Arc Routing&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Jericho Jackson&lt;/strong&gt; (Victoria University of Wellington, 2019): &amp;ldquo;Genetic Programming Hyper-heuristics for Stochastic Tourist Trip Design&amp;rdquo; (with Prof Mengjie Zhang)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shaolin Wang&lt;/strong&gt; (Victoria University of Wellington, 2018): &amp;ldquo;Evolutionary Computation for Uncertain Arc Routing&amp;rdquo; (with Prof Mengjie Zhang)&lt;/li&gt;

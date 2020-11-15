@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuzhou Zhang on Yi Mei @ VUW</title>
-    <link>https://meiyi1986.github.io/authors/yuzhou-zhang/</link>
-    <description>Recent content in Yuzhou Zhang on Yi Mei @ VUW</description>
+    <title>Buzhong Zhang on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/buzhong-zhang/</link>
+    <description>Recent content in Buzhong Zhang on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +1300</lastBuildDate>
     
-	<atom:link href="https://meiyi1986.github.io/authors/yuzhou-zhang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://meiyi1986.github.io/authors/buzhong-zhang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Sun, 01 Nov 2020 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/zhang-2020-divide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Memetic algorithm with route decomposing for periodic capacitated arc routing problem</title>
-      <link>https://meiyi1986.github.io/publication/zhang-2017-memetic/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/zhang-2017-memetic/</guid>
       <description></description>
     </item>
     

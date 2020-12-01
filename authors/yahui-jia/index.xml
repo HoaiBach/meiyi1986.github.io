@@ -6,10 +6,19 @@
     <description>Recent content in Yahui Jia on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +1200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/yahui-jia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adaptive Coordination Ant Colony Optimisation for Multi-Point Dynamic Aggregation</title>
+      <link>https://meiyi1986.github.io/publication/gao-2020-adaptive/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/gao-2020-adaptive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contribution-based Cooperative Co-evolution for Non-separable Large-scale Problems with Overlapping Subcomponents</title>

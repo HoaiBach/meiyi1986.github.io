@@ -6,10 +6,19 @@
     <description>Recent content in Will Browne on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/will-browne/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adaptive Coordination Ant Colony Optimisation for Multi-Point Dynamic Aggregation</title>
+      <link>https://meiyi1986.github.io/publication/gao-2020-adaptive/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/gao-2020-adaptive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Memetic Algorithm for the Task Allocation Problem on Multi-robot Multi-point Dynamic Aggregation Missions</title>

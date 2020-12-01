@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shihua Huang on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/shihua-huang/</link>
+    <description>Recent content in Shihua Huang on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/shihua-huang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Route Clustering and Search Heuristic for LargeScale Multi-Depot Capacitated Arc RoutingProblem</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2020-route/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2020-route/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

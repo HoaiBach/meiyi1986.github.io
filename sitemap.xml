@@ -42,6 +42,14 @@
     
     <url>
     
+      <loc>https://meiyi1986.github.io/publication/zhang-2020-route/</loc>
+      <lastmod>2020-12-01T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://meiyi1986.github.io/publication/zhang-2020-divide/</loc>
       <lastmod>2020-11-01T00:00:00+13:00</lastmod>
     </url>
@@ -1051,7 +1059,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/publication_types/2/</loc>
-      <lastmod>2020-11-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-12-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1203,6 +1211,15 @@
     <url>
     
       <loc>https://meiyi1986.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/authors/cuijuan-zhang/</loc>
+      <lastmod>2020-12-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1587,7 +1604,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/publication/</loc>
-      <lastmod>2020-11-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-12-01T00:00:00+13:00</lastmod>
     </url>
     
   
@@ -1630,6 +1647,15 @@
     
       <loc>https://meiyi1986.github.io/authors/shaolin-wang/</loc>
       <lastmod>2020-09-01T00:00:00+12:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://meiyi1986.github.io/authors/shihua-huang/</loc>
+      <lastmod>2020-12-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1717,6 +1743,15 @@
     
     <url>
     
+      <loc>https://meiyi1986.github.io/authors/xin-zheng/</loc>
+      <lastmod>2020-12-01T00:00:00+13:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://meiyi1986.github.io/authors/ya-hui-jia/</loc>
       <lastmod>2020-07-01T00:00:00+12:00</lastmod>
       <priority>0</priority>
@@ -1763,7 +1798,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/yi-mei/</loc>
-      <lastmod>2020-11-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-12-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1808,7 +1843,7 @@
     <url>
     
       <loc>https://meiyi1986.github.io/authors/yuzhou-zhang/</loc>
-      <lastmod>2020-11-01T00:00:00+13:00</lastmod>
+      <lastmod>2020-12-01T00:00:00+13:00</lastmod>
       <priority>0</priority>
     </url>
     

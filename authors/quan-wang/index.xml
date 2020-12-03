@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quan Wang on Yi Mei @ VUW</title>
+    <link>https://meiyi1986.github.io/authors/quan-wang/</link>
+    <description>Recent content in Quan Wang on Yi Mei @ VUW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +1300</lastBuildDate>
+    
+	<atom:link href="https://meiyi1986.github.io/authors/quan-wang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cooperative coevolution for large-scale global optimization based on fuzzy decomposition</title>
+      <link>https://meiyi1986.github.io/publication/li-2020-divide/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/li-2020-divide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

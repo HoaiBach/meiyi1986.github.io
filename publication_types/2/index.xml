@@ -6,10 +6,19 @@
     <description>Recent content in 2 on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Collaborative Multi-fidelity based Surrogate Models for Genetic Programming in Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2021-collaborative/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2021-collaborative/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Route Clustering and Search Heuristic for LargeScale Multi-Depot Capacitated Arc RoutingProblem</title>

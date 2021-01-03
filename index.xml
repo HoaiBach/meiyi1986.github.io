@@ -408,9 +408,9 @@
 &lt;li&gt;&lt;b&gt;Fangfang Zhang&lt;/b&gt; (Victoria University of Wellington, 2017): &#34;Genetic Programming for Dynamic Flexible Job Shop Scheduling&#34; (with Prof Mengjie Zhang)&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;Mahdi Abdollahi&lt;/b&gt; (Victoria University of Wellington, 2017): &#34;Evolutionary Text Mining&#34; (with Dr Sharon Gao, Prof Jinyan Li (UTS), and Dr Shameek Ghosh)&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;Harry He&lt;/b&gt; (Victoria University of Wellington, 2017): &#34;Optimisation of Urban Layout Design&#34; (with Prof Marc Aurel Schnabel)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Atiya Masood&lt;/b&gt; (Victoria University of Wellington, 2015): &#34;Many-Objective Job Shop Scheduling&#34; (with Dr Aaron Chen, and Prof Mengjie Zhang)&lt;/li&gt;
 &lt;li&gt;&lt;b&gt;Guanqiang Gao&lt;/b&gt; (Beijing Institute of Technology): &#34;Evolutionary Computation for Robot Pathfinding and Resource Allocation&#34; (with A/Prof Will Browne and A/Prof Bin Xin)&lt;/li&gt;
-&lt;li&gt;&lt;b&gt;Boxiong Tan&lt;/b&gt; (Victoria University of Wellington, 2016): &#34;An Evolutionary Computation Approach to Resource Allocation in Container-based Clouds&#34; &lt;a href=&#34;http://researcharchive.vuw.ac.nz/xmlui/handle/10063/9297&#34;&gt;[PhD thesis]&lt;/a&gt; (with Dr Hui Ma)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Atiya Masood&lt;/b&gt; (Victoria University of Wellington, graduated in 2020): &#34;Many-Objective Genetic Programming for Job-Shop Scheduling&#34; &lt;a href=&#34;&#34;&gt;[PhD thesis]&lt;/a&gt; (with Dr Aaron Chen, and Prof Mengjie Zhang)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Boxiong Tan&lt;/b&gt; (Victoria University of Wellington, graduated in 2020): &#34;An Evolutionary Computation Approach to Resource Allocation in Container-based Clouds&#34; &lt;a href=&#34;http://researcharchive.vuw.ac.nz/xmlui/handle/10063/9297&#34;&gt;[PhD thesis]&lt;/a&gt; (with Dr Hui Ma)&lt;/li&gt;
 &lt;li&gt;&lt;i&gt;&lt;b&gt;Binzi Xu&lt;/b&gt; (Jiangnan University, China): &#34;Intelligent Optimisation Methods for Production Scheduling&#34; &lt;a href=&#34;https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&amp;QueryID=0&amp;CurRec=1&amp;dbname=CDFDTEMP&amp;filename=1020007558.nh&amp;urlid=&amp;yx=&amp;v=MDc0NzRxVHJXTTFGckNVUjdxZll1UnNGeW5sVnIvSlZGMjVIck80R2RUSnA1RWJQSVI4ZVgxTHV4WVM3RGgxVDM=&#34;&gt;[PhD thesis (in Chinese)]&lt;/a&gt; (with Prof Yan Wang)&lt;/i&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i&gt;&lt;b&gt;John Park&lt;/b&gt; (Victoria University of Wellington, graduated in 2019): &#34;Evolving Dispatching Rules for Dynamic Job Shop Scheduling Problems using Genetic Programming&#34; &lt;a href=&#34;http://researcharchive.vuw.ac.nz/handle/10063/8186&#34;&gt;[PhD thesis]&lt;/a&gt; (with Dr Aaron Chen, Dr Su Nguyen, and Prof Mengjie Zhang)&lt;/i&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i&gt;&lt;b&gt;Deepak Karunakaran&lt;/b&gt; (Victoria University of Wellington, graduated in 2019): &#34;Active Learning Methods for Dynamic Job Shop Scheduling using Genetic Programming under Uncertain Environment&#34; &lt;a href=&#34;http://researcharchive.vuw.ac.nz/handle/10063/8614&#34;&gt;[PhD thesis]&lt;/a&gt; (with Dr Aaron Chen, and Prof Mengjie Zhang)&lt;/i&gt;&lt;/li&gt;
@@ -619,6 +619,15 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
     </item>
     
     <item>
+      <title>Collaborative Multi-fidelity based Surrogate Models for Genetic Programming in Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2021-collaborative/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2021-collaborative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Route Clustering and Search Heuristic for LargeScale Multi-Depot Capacitated Arc RoutingProblem</title>
       <link>https://meiyi1986.github.io/publication/zhang-2020-route/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +1300</pubDate>
@@ -651,15 +660,6 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
       <pubDate>Sun, 01 Nov 2020 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/zhang-2020-divide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surrogate-Assisted Evolutionary Multitasking Genetic Programming for Dynamic FlexibleJob Shop Scheduling</title>
-      <link>https://meiyi1986.github.io/publication/zhang-2020-surrogate/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/zhang-2020-surrogate/</guid>
       <description></description>
     </item>
     

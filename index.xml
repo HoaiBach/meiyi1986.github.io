@@ -654,7 +654,7 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
 
 &lt;p&gt;This 2-hour tutorial will be composed of the following parts:&lt;/p&gt;
 
-&lt;ol&gt;
+&lt;ul&gt;
 &lt;li&gt;Brief introduction to XAI [25 mins]
 
 &lt;ul&gt;
@@ -675,9 +675,9 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
 &lt;li&gt;Post-hoc explanation using GP&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Challenges and Future Directions [10 mins]&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Presenter&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Dr. Yi Mei, Victoria University of Wellington, New Zealand (yi.mei@ecs.vuw.ac.nz)&lt;/strong&gt;&lt;/p&gt;
 

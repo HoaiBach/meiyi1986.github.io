@@ -654,7 +654,7 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
 
 &lt;p&gt;This 2-hour tutorial will be composed of the following parts:&lt;/p&gt;
 
-&lt;ul&gt;
+&lt;ol&gt;
 &lt;li&gt;Brief introduction to XAI [25 mins]
 
 &lt;ul&gt;
@@ -662,9 +662,8 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
 &lt;li&gt;LIME/SHAP&lt;/li&gt;
 &lt;li&gt;Post-hoc explanation&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Brief introduction to GP [20 mins]&lt;/li&gt;
-&lt;li&gt;Break [5 mins]&lt;/li&gt;
-&lt;li&gt;How to approach better model interpretability through GP [60 mins]
+&lt;li&gt;Brief introduction to GP [15 mins]&lt;/li&gt;
+&lt;li&gt;How to approach better model interpretability through GP [50 mins]
 
 &lt;ul&gt;
 &lt;li&gt;Multi-Objective GP&lt;/li&gt;
@@ -675,7 +674,7 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
 &lt;li&gt;Post-hoc explanation using GP&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Challenges and Future Directions [10 mins]&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 
 &lt;h3 id=&#34;presenter&#34;&gt;Presenter&lt;/h3&gt;
 

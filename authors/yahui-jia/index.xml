@@ -6,10 +6,19 @@
     <description>Recent content in Yahui Jia on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/authors/yahui-jia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Bi-level Ant Colony Optimization Algorithm for Capacitated Electric Vehicle Routing Problem</title>
+      <link>https://meiyi1986.github.io/publication/jia-2021-bi/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/jia-2021-bi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive Coordination Ant Colony Optimisation for Multi-Point Dynamic Aggregation</title>

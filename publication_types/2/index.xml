@@ -6,10 +6,19 @@
     <description>Recent content in 2 on Yi Mei @ VUW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +1300</lastBuildDate>
     
 	<atom:link href="https://meiyi1986.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Evolving Scheduling Heuristics via Genetic Programming with Feature Selection in Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2020-evolving/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2020-evolving/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Bi-level Ant Colony Optimization Algorithm for Capacitated Electric Vehicle Routing Problem</title>

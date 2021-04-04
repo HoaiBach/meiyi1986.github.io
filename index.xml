@@ -149,6 +149,7 @@
 &lt;li&gt;&lt;a href=&#34;http://www.journals.elsevier.com/transportation-research-part-d-transport-and-environment/&#34;&gt;Transportation Research Part D&lt;/a&gt;, Elsevier &lt;strong&gt;(Q1)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245516&#34;&gt;IEEE Transactions on Emerging Topics in Computing&lt;/a&gt;, IEEE &lt;strong&gt;(Q1)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297&#34;&gt;IEEE Transactions on Emerging Topics in Computational Intelligence&lt;/a&gt;, IEEE&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688&#34;&gt;IEEE Transactions on Artificial Intelligence&lt;/a&gt;, IEEE&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.tandfonline.com/toc/tprs20/current&#34;&gt;International Journal of Production Research&lt;/a&gt;, Taylor &amp;amp; Francis &lt;strong&gt;(Q1)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.journals.elsevier.com/waste-management&#34;&gt;Waste Management&lt;/a&gt;, Elsevier &lt;strong&gt;(Q1)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.journals.elsevier.com/computers-and-industrial-engineering&#34;&gt;Computers and Industrial Engineering&lt;/a&gt;, Elsevier &lt;strong&gt;(Q1)&lt;/strong&gt;&lt;/li&gt;
@@ -475,8 +476,9 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
       
       <guid>https://meiyi1986.github.io/ecco-talks/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;2021/03/31, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradTaoShi&#34;&gt;Tao Shi&lt;/a&gt;&lt;/strong&gt;,&lt;/li&gt;
-&lt;li&gt;2021/03/24, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradJoaoCosta&#34;&gt;Joao Costa&lt;/a&gt;&lt;/strong&gt;,&lt;/li&gt;
+&lt;li&gt;2021/04/07, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradTaoShi&#34;&gt;Tao Shi&lt;/a&gt;&lt;/strong&gt;,&lt;/li&gt;
+&lt;li&gt;2021/03/31, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradJoaoCosta&#34;&gt;Joao Costa&lt;/a&gt;&lt;/strong&gt;, which make VRP solutions good? Part 2&lt;/li&gt;
+&lt;li&gt;2021/03/24, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradJoaoCosta&#34;&gt;Joao Costa&lt;/a&gt;&lt;/strong&gt;, which make VRP solutions good? Part 1&lt;/li&gt;
 &lt;li&gt;2021/03/17, &lt;strong&gt;&lt;a href=&#34;https://ecs.victoria.ac.nz/Main/GradShaolinWang&#34;&gt;Shaolin Wang&lt;/a&gt;&lt;/strong&gt;, alpha-dominance multi-objective genetic programming for uncertain arc routing&lt;/li&gt;
 &lt;li&gt;2021/03/10, &lt;strong&gt;&lt;a href=&#34;https://ecs.wgtn.ac.nz/Main/GradYifanYang&#34;&gt;Yifan Yang&lt;/a&gt;&lt;/strong&gt;, data-driven bus timetable optimisation&lt;/li&gt;
 &lt;li&gt;2021/03/03, &lt;strong&gt;&lt;a href=&#34;https://ecs.wgtn.ac.nz/Main/GradZhixingHuang&#34;&gt;Zhixing Huang&lt;/a&gt;&lt;/strong&gt;, representations of GP for JSS&lt;/li&gt;
@@ -687,6 +689,15 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
     </item>
     
     <item>
+      <title>Evolving Scheduling Heuristics via Genetic Programming with Feature Selection in Dynamic Flexible Job Shop Scheduling</title>
+      <link>https://meiyi1986.github.io/publication/zhang-2020-evolving/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://meiyi1986.github.io/publication/zhang-2020-evolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Bi-level Ant Colony Optimization Algorithm for Capacitated Electric Vehicle Routing Problem</title>
       <link>https://meiyi1986.github.io/publication/jia-2021-bi/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +1300</pubDate>
@@ -710,15 +721,6 @@ Grouping Constrained Storage Location Assignment Problem&#34; &lt;a href=&#34;ht
       <pubDate>Mon, 01 Mar 2021 00:00:00 +1300</pubDate>
       
       <guid>https://meiyi1986.github.io/publication/wang-2021-two/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multitask Genetic Programming Based Generative Hyper-heuristics: A Case Study in Dynamic Scheduling</title>
-      <link>https://meiyi1986.github.io/publication/zhang-2021-multitask/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +1300</pubDate>
-      
-      <guid>https://meiyi1986.github.io/publication/zhang-2021-multitask/</guid>
       <description></description>
     </item>
     
